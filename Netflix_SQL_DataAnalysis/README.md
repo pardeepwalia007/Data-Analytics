@@ -17,8 +17,7 @@ This project explores the Netflix content dataset using advanced SQL queries. Th
 ## 📁 Files
 
 - `netflix_analysis.sql` — Full SQL code with 15+ business-focused queries
-- `cleaned_netflix.csv` — (Optional) Cleaned version of the dataset
-- `netflix_summary.md` — (Optional) Summary of key insights and visual recommendations
+- `netflix_summary.md` —  Summary of key insights and visual recommendations (this Folder)
 
 ---
 
