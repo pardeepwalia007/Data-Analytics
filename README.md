@@ -3,8 +3,8 @@ This Repository will have all the Data related projects
 
 
 
-EV folder
-# EV Analysis 🚗⚡
+# EVs Folder: 
+## EV Analysis 🚗⚡
 
 ## 📂 Contents
 - `code.ipynb` → Jupyter notebook for data cleaning & analysis
