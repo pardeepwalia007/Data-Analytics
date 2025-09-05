@@ -1,0 +1,4978 @@
+,Model Year,City,count
+0,2010,Bainbridge Island,1
+1,2010,Bellevue,3
+2,2010,Brush Prairie,1
+3,2010,Edmonds,1
+4,2010,Federal Way,1
+5,2010,Freeland,1
+6,2010,Issaquah,1
+7,2010,Kirkland,2
+8,2010,Mukilteo,1
+9,2010,Newman Lake,1
+10,2010,North Bend,1
+11,2010,Olympia,1
+12,2010,Redmond,1
+13,2010,Seattle,5
+14,2010,Spokane,1
+15,2010,Steilacoom,1
+16,2010,University Place,1
+17,2011,Aberdeen,1
+18,2011,Algona,1
+19,2011,Anacortes,5
+20,2011,Arlington,1
+21,2011,Auburn,8
+22,2011,Bainbridge Island,12
+23,2011,Battle Ground,3
+24,2011,Belfair,2
+25,2011,Bellevue,24
+26,2011,Bellingham,25
+27,2011,Blaine,1
+28,2011,Bonney Lake,1
+29,2011,Bothell,13
+30,2011,Bow,1
+31,2011,Bremerton,6
+32,2011,Brier,1
+33,2011,Brush Prairie,2
+34,2011,Burien,10
+35,2011,Burlington,2
+36,2011,Camano Island,2
+37,2011,Camas,9
+38,2011,Carnation,1
+39,2011,Centralia,2
+40,2011,Chehalis,2
+41,2011,Cheney,2
+42,2011,Chimacum,1
+43,2011,Coupeville,1
+44,2011,Covington,1
+45,2011,Des Moines,1
+46,2011,Dupont,1
+47,2011,Eastsound,4
+48,2011,Eatonville,1
+49,2011,Edgewood,1
+50,2011,Edmonds,4
+51,2011,Ellensburg,1
+52,2011,Everett,17
+53,2011,Everson,1
+54,2011,Fall City,2
+55,2011,Federal Way,8
+56,2011,Ferndale,3
+57,2011,Fife,1
+58,2011,Freeland,1
+59,2011,Friday Harbor,5
+60,2011,Gig Harbor,2
+61,2011,Graham,1
+62,2011,Granite Falls,1
+63,2011,Greenacres,1
+64,2011,Ilwaco,1
+65,2011,Joint Base Lewis Mcchord,2
+66,2011,Kelso,2
+67,2011,Kenmore,1
+68,2011,Kennewick,3
+69,2011,Kent,13
+70,2011,Kingston,1
+71,2011,Kirkland,15
+72,2011,La Center,1
+73,2011,Lacey,4
+74,2011,Lake Forest Park,4
+75,2011,Lake Stevens,2
+76,2011,Langley,3
+77,2011,Longview,1
+78,2011,Lummi Island,1
+79,2011,Lyle,1
+80,2011,Lynden,1
+81,2011,Lynnwood,6
+82,2011,Maple Valley,1
+83,2011,Marysville,3
+84,2011,Mattawa,2
+85,2011,Mazama,1
+86,2011,Mercer Island,5
+87,2011,Mill Creek,2
+88,2011,Monroe,3
+89,2011,Moses Lake,4
+90,2011,Mount Vernon,3
+91,2011,Mountlake Terrace,3
+92,2011,Moxee,1
+93,2011,Mukilteo,2
+94,2011,Newcastle,1
+95,2011,Newman Lake,2
+96,2011,Nine Mile Falls,1
+97,2011,Nordland,1
+98,2011,Normandy Park,1
+99,2011,North Bend,1
+100,2011,Oak Harbor,1
+101,2011,Ocean Shores,1
+102,2011,Olympia,22
+103,2011,Onalaska,1
+104,2011,Othello,1
+105,2011,Palouse,1
+106,2011,Pasco,4
+107,2011,Port Angeles,5
+108,2011,Port Orchard,1
+109,2011,Port Townsend,11
+110,2011,Poulsbo,2
+111,2011,Pullman,2
+112,2011,Puyallup,6
+113,2011,Raymond,1
+114,2011,Redmond,9
+115,2011,Renton,8
+116,2011,Richland,4
+117,2011,Roy,2
+118,2011,Sammamish,5
+119,2011,Seatac,2
+120,2011,Seattle,117
+121,2011,Sequim,2
+122,2011,Shoreline,7
+123,2011,Silverdale,1
+124,2011,Snohomish,5
+125,2011,South Hill,1
+126,2011,Spanaway,7
+127,2011,Spokane,18
+128,2011,Spokane Valley,8
+129,2011,Steilacoom,1
+130,2011,Sumner,2
+131,2011,Sunnyside,2
+132,2011,Tacoma,30
+133,2011,Tenino,1
+134,2011,Tukwila,2
+135,2011,Tumwater,4
+136,2011,University Place,3
+137,2011,Vancouver,20
+138,2011,Vashon,3
+139,2011,Waldron,1
+140,2011,Walla Walla,1
+141,2011,Wenatchee,1
+142,2011,Westport,1
+143,2011,White Salmon,3
+144,2011,Winlock,1
+145,2011,Woodinville,4
+146,2011,Yacolt,1
+147,2011,Yakima,3
+148,2011,Yelm,1
+149,2011,Zillah,2
+150,2012,Airway Heights,3
+151,2012,Amboy,1
+152,2012,Anacortes,14
+153,2012,Arlington,6
+154,2012,Auburn,13
+155,2012,Austin,1
+156,2012,Bainbridge Island,19
+157,2012,Battle Ground,6
+158,2012,Belfair,2
+159,2012,Bellevue,42
+160,2012,Bellingham,47
+161,2012,Benton City,2
+162,2012,Black Diamond,2
+163,2012,Blaine,1
+164,2012,Bonney Lake,7
+165,2012,Bothell,22
+166,2012,Bow,2
+167,2012,Bremerton,19
+168,2012,Brewer,1
+169,2012,Brewster,1
+170,2012,Brier,4
+171,2012,Brinnon,1
+172,2012,Brush Prairie,6
+173,2012,Buckley,3
+174,2012,Bucoda,1
+175,2012,Burien,6
+176,2012,Burlington,3
+177,2012,Camano Island,5
+178,2012,Camas,13
+179,2012,Carlton,1
+180,2012,Carnation,1
+181,2012,Centralia,4
+182,2012,Chattaroy,1
+183,2012,Chehalis,6
+184,2012,Cheney,1
+185,2012,Chewelah,2
+186,2012,Clarkston,1
+187,2012,Cle Elum,2
+188,2012,Clinton,3
+189,2012,Clyde Hill,1
+190,2012,College Place,1
+191,2012,Colville,1
+192,2012,Coupeville,6
+193,2012,Covington,4
+194,2012,Custer,1
+195,2012,Dallesport,1
+196,2012,Deming,1
+197,2012,Des Moines,2
+198,2012,Duvall,2
+199,2012,East Wenatchee,7
+200,2012,Eastsound,8
+201,2012,Edgewood,2
+202,2012,Edmonds,10
+203,2012,Electric City,1
+204,2012,Elk,1
+205,2012,Ellensburg,4
+206,2012,Entiat,1
+207,2012,Enumclaw,4
+208,2012,Ephrata,1
+209,2012,Evans,1
+210,2012,Everett,27
+211,2012,Everson,2
+212,2012,Fairchild Air Force Base,1
+213,2012,Federal Way,17
+214,2012,Ferndale,5
+215,2012,Fife,1
+216,2012,Fircrest,1
+217,2012,Ford,1
+218,2012,Forks,1
+219,2012,Fox Island,1
+220,2012,Freeland,2
+221,2012,Friday Harbor,9
+222,2012,Gig Harbor,17
+223,2012,Goldendale,2
+224,2012,Graham,8
+225,2012,Granite Falls,1
+226,2012,Grayland,1
+227,2012,Greenbank,1
+228,2012,Hansville,1
+229,2012,Hoquiam,1
+230,2012,Hunts Point,1
+231,2012,Indianola,2
+232,2012,Issaquah,7
+233,2012,Joint Base Lewis Mcchord,1
+234,2012,Joint Base Mdl,1
+235,2012,Kalama,3
+236,2012,Kelso,1
+237,2012,Kenmore,6
+238,2012,Kennewick,8
+239,2012,Kent,25
+240,2012,Kettle Falls,1
+241,2012,Kingston,3
+242,2012,Kirkland,30
+243,2012,La Center,2
+244,2012,Lacey,4
+245,2012,Lake Forest Park,4
+246,2012,Lake Stevens,11
+247,2012,Lake Tapps,2
+248,2012,Lakewood,13
+249,2012,Langley,4
+250,2012,Leander,1
+251,2012,Liberty Lake,1
+252,2012,Long Beach,2
+253,2012,Longview,10
+254,2012,Lopez Island,5
+255,2012,Lynden,2
+256,2012,Lynnwood,20
+257,2012,Manson,1
+258,2012,Maple Valley,7
+259,2012,Marysville,19
+260,2012,Mccleary,1
+261,2012,Mead,2
+262,2012,Medical Lake,1
+263,2012,Mercer Island,9
+264,2012,Mill Creek,7
+265,2012,Milton,4
+266,2012,Monroe,3
+267,2012,Moses Lake,10
+268,2012,Mossyrock,1
+269,2012,Mount Vernon,8
+270,2012,Mountlake Terrace,1
+271,2012,Moxee,2
+272,2012,Mukilteo,3
+273,2012,Naches,1
+274,2012,Newcastle,3
+275,2012,Nine Mile Falls,2
+276,2012,Normandy Park,1
+277,2012,North Bend,1
+278,2012,North Cove,1
+279,2012,Oak Harbor,7
+280,2012,Oakville,1
+281,2012,Ocean Shores,2
+282,2012,Olalla,2
+283,2012,Olga,1
+284,2012,Olympia,47
+285,2012,Omak,1
+286,2012,Othello,1
+287,2012,Outlook,1
+288,2012,Pacific,4
+289,2012,Parkland,3
+290,2012,Pasco,7
+291,2012,Pateros,1
+292,2012,Port Angeles,11
+293,2012,Port Gamble,1
+294,2012,Port Orchard,14
+295,2012,Port Townsend,13
+296,2012,Poulsbo,6
+297,2012,Prosser,1
+298,2012,Pullman,3
+299,2012,Puyallup,10
+300,2012,Quilcene,2
+301,2012,Quinault,1
+302,2012,Redmond,16
+303,2012,Renton,25
+304,2012,Richland,12
+305,2012,Ridgefield,6
+306,2012,Rochester,1
+307,2012,Ronald,1
+308,2012,Royal City,1
+309,2012,Sammamish,14
+310,2012,Seatac,6
+311,2012,Seattle,199
+312,2012,Sedro Woolley,2
+313,2012,Sedro-Woolley,2
+314,2012,Selah,4
+315,2012,Sequim,10
+316,2012,Shelton,13
+317,2012,Shoreline,10
+318,2012,Silverdale,4
+319,2012,Silverlake,1
+320,2012,Snohomish,10
+321,2012,Soap Lake,1
+322,2012,South Hill,7
+323,2012,Spanaway,5
+324,2012,Spokane,32
+325,2012,Spokane Valley,10
+326,2012,Stanwood,4
+327,2012,Stevenson,1
+328,2012,Sultan,1
+329,2012,Sumner,2
+330,2012,Sunnyside,1
+331,2012,Surfside,1
+332,2012,Tacoma,40
+333,2012,Tenino,4
+334,2012,Tonasket,1
+335,2012,Toppenish,1
+336,2012,Tukwila,2
+337,2012,Tumwater,3
+338,2012,Twisp,1
+339,2012,University Place,11
+340,2012,Valley,1
+341,2012,Vancouver,81
+342,2012,Vashon,8
+343,2012,Veradale,1
+344,2012,Walla Walla,8
+345,2012,Washougal,2
+346,2012,Wenatchee,4
+347,2012,West Richland,6
+348,2012,Westport,1
+349,2012,White Salmon,1
+350,2012,Winlock,1
+351,2012,Woodinville,12
+352,2012,Woodland,3
+353,2012,Yakima,14
+354,2012,Yelm,5
+355,2012,Zillah,1
+356,2013,Aberdeen,8
+357,2013,Addy,1
+358,2013,Algona,4
+359,2013,Allyn,3
+360,2013,Anacortes,17
+361,2013,Anderson Island,2
+362,2013,Arlington,20
+363,2013,Auburn,45
+364,2013,Augusta,1
+365,2013,Bainbridge Island,51
+366,2013,Battle Ground,16
+367,2013,Beaux Arts,2
+368,2013,Belfair,8
+369,2013,Bellevue,128
+370,2013,Bellingham,152
+371,2013,Benton City,3
+372,2013,Bingen,1
+373,2013,Black Diamond,1
+374,2013,Blaine,14
+375,2013,Bonney Lake,14
+376,2013,Bothell,65
+377,2013,Bow,1
+378,2013,Bremerton,34
+379,2013,Brier,8
+380,2013,Brush Prairie,3
+381,2013,Buckley,5
+382,2013,Burien,27
+383,2013,Burlington,4
+384,2013,Camano Island,8
+385,2013,Camas,37
+386,2013,Carnation,6
+387,2013,Carson,1
+388,2013,Castle Rock,2
+389,2013,Cathlamet,1
+390,2013,Centerville,1
+391,2013,Centralia,9
+392,2013,Chehalis,8
+393,2013,Chelan,2
+394,2013,Cheney,3
+395,2013,Chimacum,1
+396,2013,Clarkston,2
+397,2013,Cle Elum,6
+398,2013,Clinton,8
+399,2013,Clyde Hill,1
+400,2013,Colbert,2
+401,2013,College Place,3
+402,2013,Coulee City,1
+403,2013,Coupeville,6
+404,2013,Covington,14
+405,2013,Curtis,1
+406,2013,Custer,2
+407,2013,Deer Park,3
+408,2013,Deming,2
+409,2013,Des Moines,18
+410,2013,Dupont,10
+411,2013,Duvall,10
+412,2013,East Wenatchee,16
+413,2013,Easton,2
+414,2013,Eastsound,15
+415,2013,Eatonville,1
+416,2013,Edgewood,8
+417,2013,Edmonds,66
+418,2013,Edwall,1
+419,2013,Ellensburg,8
+420,2013,Elma,3
+421,2013,Endicott,1
+422,2013,Enumclaw,10
+423,2013,Ephrata,1
+424,2013,Everett,83
+425,2013,Everson,2
+426,2013,Fairchild Air Force Base,1
+427,2013,Fall City,2
+428,2013,Federal Way,29
+429,2013,Ferndale,14
+430,2013,Fife,5
+431,2013,Fircrest,1
+432,2013,Forks,1
+433,2013,Fox Island,2
+434,2013,Freeland,10
+435,2013,Friday Harbor,26
+436,2013,Gig Harbor,40
+437,2013,Gold Bar,5
+438,2013,Goldendale,1
+439,2013,Graham,13
+440,2013,Grandview,1
+441,2013,Granite Falls,10
+442,2013,Grapeview,1
+443,2013,Greenbank,2
+444,2013,Hansville,1
+445,2013,Hoodsport,1
+446,2013,Hoquiam,1
+447,2013,Issaquah,27
+448,2013,Joint Base Lewis Mcchord,1
+449,2013,Kalama,2
+450,2013,Kapowsin,1
+451,2013,Kelso,1
+452,2013,Kenmore,19
+453,2013,Kennewick,33
+454,2013,Kent,57
+455,2013,Kettle Falls,1
+456,2013,Kingston,11
+457,2013,Kirkland,77
+458,2013,La Center,3
+459,2013,La Conner,3
+460,2013,Lacey,14
+461,2013,Lake Forest Park,16
+462,2013,Lake Stevens,25
+463,2013,Lake Tapps,7
+464,2013,Lakebay,1
+465,2013,Lakewood,23
+466,2013,Langley,10
+467,2013,Leavenworth,3
+468,2013,Liberty Lake,4
+469,2013,Longbranch,2
+470,2013,Longview,12
+471,2013,Loon Lake,1
+472,2013,Lopez Island,6
+473,2013,Lummi Island,3
+474,2013,Lyle,1
+475,2013,Lynden,8
+476,2013,Lynnwood,73
+477,2013,Malaga,2
+478,2013,Manson,1
+479,2013,Maple Falls,1
+480,2013,Maple Valley,25
+481,2013,Marysville,32
+482,2013,Mccleary,2
+483,2013,Mead,2
+484,2013,Medical Lake,1
+485,2013,Medina,4
+486,2013,Mercer Island,36
+487,2013,Mill Creek,10
+488,2013,Milton,4
+489,2013,Monroe,15
+490,2013,Montesano,3
+491,2013,Moses Lake,8
+492,2013,Mossyrock,1
+493,2013,Mount Vernon,29
+494,2013,Mountlake Terrace,15
+495,2013,Moxee,1
+496,2013,Mukilteo,23
+497,2013,Neah Bay,1
+498,2013,Newcastle,10
+499,2013,Newman Lake,1
+500,2013,Newport,2
+501,2013,Nine Mile Falls,3
+502,2013,Nordland,2
+503,2013,Normandy Park,8
+504,2013,North Bend,5
+505,2013,North Cove,1
+506,2013,Oak Harbor,14
+507,2013,Oakville,1
+508,2013,Ocean Shores,5
+509,2013,Odessa,1
+510,2013,Olalla,1
+511,2013,Olga,7
+512,2013,Olympia,140
+513,2013,Omak,1
+514,2013,Orcas,1
+515,2013,Orondo,2
+516,2013,Othello,2
+517,2013,Otis Orchards,3
+518,2013,Pacific,3
+519,2013,Parkland,2
+520,2013,Pasco,25
+521,2013,Peshastin,1
+522,2013,Phoenix,1
+523,2013,Point Roberts,2
+524,2013,Port Angeles,21
+525,2013,Port Hadlock,2
+526,2013,Port Ludlow,6
+527,2013,Port Orchard,32
+528,2013,Port Townsend,34
+529,2013,Poulsbo,29
+530,2013,Prosser,2
+531,2013,Pullman,10
+532,2013,Puyallup,44
+533,2013,Quilcene,1
+534,2013,Rainier,4
+535,2013,Raymond,3
+536,2013,Redmond,95
+537,2013,Renton,92
+538,2013,Richland,20
+539,2013,Ridgefield,16
+540,2013,Rochester,6
+541,2013,Roy,7
+542,2013,Ruston,2
+543,2013,Sammamish,56
+544,2013,Seabeck,2
+545,2013,Seatac,19
+546,2013,Seattle,649
+547,2013,Sedro Woolley,1
+548,2013,Sedro-Woolley,5
+549,2013,Sequim,31
+550,2013,Shelton,12
+551,2013,Shoreline,66
+552,2013,Silverdale,7
+553,2013,Silverlake,1
+554,2013,Snohomish,43
+555,2013,Snoqualmie,14
+556,2013,Soap Lake,1
+557,2013,South Hill,11
+558,2013,Spanaway,19
+559,2013,Spokane,82
+560,2013,Spokane Valley,20
+561,2013,Sprague,1
+562,2013,Springdale,1
+563,2013,Stanwood,14
+564,2013,Steilacoom,5
+565,2013,Stevenson,1
+566,2013,Sultan,3
+567,2013,Sumas,1
+568,2013,Sumner,4
+569,2013,Sunnyside,2
+570,2013,Suquamish,2
+571,2013,Surfside,1
+572,2013,Tacoma,108
+573,2013,Tahuya,1
+574,2013,Tenino,5
+575,2013,Toledo,1
+576,2013,Tonasket,1
+577,2013,Toppenish,2
+578,2013,Touchet,1
+579,2013,Trout Lake,1
+580,2013,Tukwila,13
+581,2013,Tumwater,18
+582,2013,Underwood,1
+583,2013,Union,2
+584,2013,University Place,11
+585,2013,Upper Marlboro,1
+586,2013,Valley,1
+587,2013,Vancouver,193
+588,2013,Vashon,34
+589,2013,Vaughn,1
+590,2013,Waitsburg,1
+591,2013,Waldron,1
+592,2013,Walla Walla,9
+593,2013,Wapato,1
+594,2013,Washougal,18
+595,2013,Wenatchee,9
+596,2013,West Richland,7
+597,2013,Westport,2
+598,2013,White Salmon,5
+599,2013,Williamsburg,1
+600,2013,Winlock,1
+601,2013,Winthrop,2
+602,2013,Woodinville,51
+603,2013,Woodland,6
+604,2013,Yacolt,1
+605,2013,Yakima,22
+606,2013,Yarrow Point,2
+607,2013,Yelm,10
+608,2013,Zillah,1
+609,2014,Aberdeen,4
+610,2014,Acme,1
+611,2014,Algona,2
+612,2014,Allyn,2
+613,2014,Anacortes,23
+614,2014,Anderson Island,3
+615,2014,Ariel,1
+616,2014,Arlington,20
+617,2014,Ashford,1
+618,2014,Asotin,1
+619,2014,Auburn,51
+620,2014,Bainbridge Island,42
+621,2014,Baring,1
+622,2014,Battle Ground,21
+623,2014,Bay Center,1
+624,2014,Beaux Arts,1
+625,2014,Belfair,4
+626,2014,Bellevue,102
+627,2014,Bellingham,69
+628,2014,Bickleton,1
+629,2014,Bingen,1
+630,2014,Black Diamond,5
+631,2014,Blaine,15
+632,2014,Bonney Lake,13
+633,2014,Bothell,76
+634,2014,Bow,3
+635,2014,Bremerton,37
+636,2014,Brier,3
+637,2014,Brinnon,1
+638,2014,Brush Prairie,8
+639,2014,Buckley,8
+640,2014,Burien,14
+641,2014,Burlington,3
+642,2014,Camano Island,11
+643,2014,Camas,26
+644,2014,Carbonado,1
+645,2014,Carnation,12
+646,2014,Cashmere,2
+647,2014,Castle Rock,2
+648,2014,Cathlamet,1
+649,2014,Centralia,6
+650,2014,Charlottesville,1
+651,2014,Chattaroy,1
+652,2014,Chehalis,5
+653,2014,Chelan,1
+654,2014,Cheney,4
+655,2014,Cinebar,1
+656,2014,Clarkston,2
+657,2014,Cle Elum,3
+658,2014,Clearlake,1
+659,2014,Clinton,4
+660,2014,Clyde Hill,5
+661,2014,Colbert,2
+662,2014,Coupeville,4
+663,2014,Covington,6
+664,2014,Curlew,1
+665,2014,Custer,2
+666,2014,Dayton,1
+667,2014,Deer Meadows,1
+668,2014,Deer Park,1
+669,2014,Des Moines,19
+670,2014,Dumfries,1
+671,2014,Dupont,2
+672,2014,Duvall,12
+673,2014,East Wenatchee,8
+674,2014,Eastsound,15
+675,2014,Eatonville,4
+676,2014,Edgewood,5
+677,2014,Edmonds,28
+678,2014,Ellensburg,4
+679,2014,Elma,4
+680,2014,Eltopia,1
+681,2014,Enumclaw,11
+682,2014,Ephrata,2
+683,2014,Everett,61
+684,2014,Everson,1
+685,2014,Fairchild Air Force Base,1
+686,2014,Fairfield,1
+687,2014,Fall City,1
+688,2014,Federal Way,24
+689,2014,Ferndale,12
+690,2014,Fife,4
+691,2014,Fircrest,3
+692,2014,Ford,1
+693,2014,Forks,1
+694,2014,Fox Island,4
+695,2014,Freeland,6
+696,2014,Friday Harbor,24
+697,2014,Gig Harbor,32
+698,2014,Gold Bar,3
+699,2014,Goldendale,1
+700,2014,Graham,8
+701,2014,Grand Coulee,3
+702,2014,Grandview,1
+703,2014,Granger,1
+704,2014,Granite Falls,3
+705,2014,Grapeview,4
+706,2014,Grays River,1
+707,2014,Greenacres,1
+708,2014,Greenbank,5
+709,2014,Hansville,1
+710,2014,Hoodsport,2
+711,2014,Husum,1
+712,2014,Indianola,3
+713,2014,Issaquah,27
+714,2014,Joint Base Lewis Mcchord,4
+715,2014,Kalama,2
+716,2014,Kelso,5
+717,2014,Kenmore,12
+718,2014,Kennewick,25
+719,2014,Kent,63
+720,2014,Kingston,6
+721,2014,Kirkland,69
+722,2014,La Center,6
+723,2014,Lacey,24
+724,2014,Lake Forest Park,8
+725,2014,Lake Stevens,31
+726,2014,Lake Tapps,5
+727,2014,Lakebay,2
+728,2014,Lakewood,19
+729,2014,Langley,7
+730,2014,Las Vegas,1
+731,2014,Leavenworth,5
+732,2014,Liberty Lake,2
+733,2014,Longview,3
+734,2014,Lopez Island,3
+735,2014,Lummi Island,2
+736,2014,Lynden,6
+737,2014,Lynnwood,43
+738,2014,Madison,1
+739,2014,Malaga,2
+740,2014,Manassas,1
+741,2014,Manson,2
+742,2014,Maple Falls,3
+743,2014,Maple Valley,26
+744,2014,Marysville,31
+745,2014,Mattawa,1
+746,2014,Mccleary,3
+747,2014,Mead,1
+748,2014,Medical Lake,4
+749,2014,Medina,10
+750,2014,Mercer Island,29
+751,2014,Middletown,1
+752,2014,Mill Creek,6
+753,2014,Milton,2
+754,2014,Monroe,16
+755,2014,Montesano,4
+756,2014,Moses Lake,11
+757,2014,Mount Vernon,15
+758,2014,Mountlake Terrace,14
+759,2014,Moxee,2
+760,2014,Mukilteo,12
+761,2014,Newcastle,15
+762,2014,Newman Lake,2
+763,2014,Newport,1
+764,2014,Nine Mile Falls,2
+765,2014,Nordland,2
+766,2014,Normandy Park,5
+767,2014,North Bend,14
+768,2014,Oak Harbor,12
+769,2014,Oakville,3
+770,2014,Ocean Shores,3
+771,2014,Olalla,1
+772,2014,Olga,4
+773,2014,Olympia,94
+774,2014,Orcas Is,1
+775,2014,Orondo,2
+776,2014,Orting,2
+777,2014,Othello,4
+778,2014,Pacific,4
+779,2014,Palouse,1
+780,2014,Parkland,6
+781,2014,Pasco,22
+782,2014,Point Roberts,2
+783,2014,Pomeroy,1
+784,2014,Port Angeles,15
+785,2014,Port Hadlock,2
+786,2014,Port Ludlow,3
+787,2014,Port Orchard,27
+788,2014,Port Townsend,14
+789,2014,Poulsbo,25
+790,2014,Princeton,1
+791,2014,Prosser,4
+792,2014,Pullman,10
+793,2014,Puyallup,25
+794,2014,Quilcene,2
+795,2014,Quincy,3
+796,2014,Rainier,1
+797,2014,Randle,1
+798,2014,Ravensdale,1
+799,2014,Raymond,1
+800,2014,Redmond,79
+801,2014,Renton,84
+802,2014,Republic,1
+803,2014,Richland,22
+804,2014,Ridgefield,9
+805,2014,Ritzville,1
+806,2014,Rochester,4
+807,2014,Ronald,1
+808,2014,Roy,5
+809,2014,Ruston,1
+810,2014,Sammamish,55
+811,2014,Seabeck,2
+812,2014,Seaside,1
+813,2014,Seatac,9
+814,2014,Seattle,500
+815,2014,Sedro Woolley,1
+816,2014,Sedro-Woolley,4
+817,2014,Selah,3
+818,2014,Sequim,17
+819,2014,Seven Bays,1
+820,2014,Shaw Island,1
+821,2014,Shelton,14
+822,2014,Shoreline,44
+823,2014,Silver Creek,1
+824,2014,Silverdale,5
+825,2014,Silverlake,1
+826,2014,Snohomish,39
+827,2014,Snoqualmie,5
+828,2014,Snowden,1
+829,2014,Soap Lake,3
+830,2014,South Hill,10
+831,2014,Spanaway,11
+832,2014,Spokane,57
+833,2014,Spokane Valley,20
+834,2014,Springfield,1
+835,2014,Stanwood,9
+836,2014,Steilacoom,4
+837,2014,Sultan,2
+838,2014,Sumas,1
+839,2014,Sumner,4
+840,2014,Sunnyside,1
+841,2014,Suquamish,1
+842,2014,Tacoma,101
+843,2014,Tampa,1
+844,2014,Tenino,5
+845,2014,Tonasket,2
+846,2014,Trout Lake,1
+847,2014,Tukwila,8
+848,2014,Tumwater,13
+849,2014,Twisp,1
+850,2014,Union Gap,1
+851,2014,University Place,16
+852,2014,Valleyford,1
+853,2014,Vancouver,114
+854,2014,Vashon,29
+855,2014,Veradale,1
+856,2014,Walla Walla,9
+857,2014,Warden,1
+858,2014,Washougal,11
+859,2014,Wenatchee,10
+860,2014,West Richland,5
+861,2014,Westport,2
+862,2014,White Salmon,3
+863,2014,Winlock,2
+864,2014,Woodinville,38
+865,2014,Woodland,3
+866,2014,Woodway,2
+867,2014,Yacolt,2
+868,2014,Yakima,29
+869,2014,Yelm,5
+870,2015,Aberdeen,5
+871,2015,Acme,1
+872,2015,Addy,1
+873,2015,Airway Heights,1
+874,2015,Alexandria,1
+875,2015,Allyn,1
+876,2015,Amboy,1
+877,2015,Anacortes,23
+878,2015,Anderson Island,3
+879,2015,Ann Arbor,1
+880,2015,Arlington,15
+881,2015,Auburn,50
+882,2015,Bainbridge Island,48
+883,2015,Battle Ground,16
+884,2015,Belfair,5
+885,2015,Bellevue,188
+886,2015,Bellingham,156
+887,2015,Benton City,1
+888,2015,Black Diamond,3
+889,2015,Blaine,20
+890,2015,Bonney Lake,27
+891,2015,Bothell,100
+892,2015,Bow,6
+893,2015,Bremerton,50
+894,2015,Bridgeport Bar,1
+895,2015,Brier,6
+896,2015,Brush Prairie,6
+897,2015,Buckley,10
+898,2015,Burien,28
+899,2015,Burlington,4
+900,2015,Camano Island,20
+901,2015,Camas,33
+902,2015,Carnation,5
+903,2015,Cashmere,2
+904,2015,Cathlamet,2
+905,2015,Centralia,6
+906,2015,Chattaroy,4
+907,2015,Chehalis,9
+908,2015,Chelan,4
+909,2015,Cheney,6
+910,2015,Chimacum,2
+911,2015,Clarkston,1
+912,2015,Clayton,1
+913,2015,Cle Elum,2
+914,2015,Clinton,12
+915,2015,Clyde Hill,4
+916,2015,Colbert,4
+917,2015,Colfax,1
+918,2015,College Place,2
+919,2015,Colville,1
+920,2015,Concrete,1
+921,2015,Copalis Beach,1
+922,2015,Coulee Dam,1
+923,2015,Coupeville,9
+924,2015,Covington,14
+925,2015,Custer,1
+926,2015,Darrington,1
+927,2015,Decatur,1
+928,2015,Deer Park,4
+929,2015,Deming,1
+930,2015,Des Moines,15
+931,2015,Dupont,3
+932,2015,Duvall,13
+933,2015,East Wenatchee,9
+934,2015,Eastsound,20
+935,2015,Eatonville,4
+936,2015,Edgewood,6
+937,2015,Edmonds,62
+938,2015,Electric City,1
+939,2015,Ellensburg,7
+940,2015,Elma,5
+941,2015,Entiat,4
+942,2015,Enumclaw,12
+943,2015,Ephrata,1
+944,2015,Evans,1
+945,2015,Everett,65
+946,2015,Everson,2
+947,2015,Fall City,5
+948,2015,Federal Way,43
+949,2015,Ferndale,12
+950,2015,Fife,5
+951,2015,Fircrest,2
+952,2015,Fort Leavenworth,1
+953,2015,Fox Island,5
+954,2015,Frances,1
+955,2015,Freeland,6
+956,2015,Friday Harbor,30
+957,2015,Gig Harbor,41
+958,2015,Gold Bar,1
+959,2015,Goldendale,1
+960,2015,Graham,11
+961,2015,Grandview,2
+962,2015,Granite Falls,3
+963,2015,Grapeview,3
+964,2015,Greenacres,2
+965,2015,Greenbank,4
+966,2015,Hansville,3
+967,2015,Hoodsport,1
+968,2015,Hoquiam,6
+969,2015,Huntington Beach,1
+970,2015,Hunts Point,3
+971,2015,Indianola,3
+972,2015,Issaquah,37
+973,2015,Joint Base Lewis Mcchord,1
+974,2015,Kalama,1
+975,2015,Kelso,3
+976,2015,Kenmore,25
+977,2015,Kennewick,32
+978,2015,Kent,65
+979,2015,Kingston,5
+980,2015,Kirkland,104
+981,2015,La Center,6
+982,2015,La Conner,2
+983,2015,La Push,1
+984,2015,Lacey,23
+985,2015,Lake Forest Park,22
+986,2015,Lake Stevens,36
+987,2015,Lake Tapps,8
+988,2015,Lakebay,2
+989,2015,Lakewood,18
+990,2015,Langley,6
+991,2015,Leavenworth,11
+992,2015,Liberty Lake,3
+993,2015,Long Beach,1
+994,2015,Longview,14
+995,2015,Lopez Is,1
+996,2015,Lopez Island,9
+997,2015,Lummi Island,3
+998,2015,Lynden,8
+999,2015,Lynnwood,65
+1000,2015,Manson,2
+1001,2015,Maple Falls,1
+1002,2015,Maple Valley,31
+1003,2015,Marysville,32
+1004,2015,Medical Lake,4
+1005,2015,Medina,5
+1006,2015,Menlo,1
+1007,2015,Mercer Island,50
+1008,2015,Middleburg,1
+1009,2015,Mill Creek,16
+1010,2015,Milton,1
+1011,2015,Moclips,1
+1012,2015,Monroe,17
+1013,2015,Montesano,1
+1014,2015,Morton,1
+1015,2015,Moses Lake,11
+1016,2015,Mossyrock,1
+1017,2015,Mount Vernon,21
+1018,2015,Mountlake Terrace,16
+1019,2015,Moxee,1
+1020,2015,Mukilteo,19
+1021,2015,Napavine,1
+1022,2015,Naselle,1
+1023,2015,Newcastle,9
+1024,2015,Newman Lake,3
+1025,2015,Nine Mile Falls,7
+1026,2015,Nordland,6
+1027,2015,Normandy Park,5
+1028,2015,North Bend,9
+1029,2015,North Bonneville,1
+1030,2015,North Cove,1
+1031,2015,Oak Harbor,12
+1032,2015,Oakville,2
+1033,2015,Ocean Park,3
+1034,2015,Ocean Shores,6
+1035,2015,Okanogan,1
+1036,2015,Olalla,1
+1037,2015,Old Lyme,1
+1038,2015,Olga,5
+1039,2015,Olympia,122
+1040,2015,Omak,1
+1041,2015,Orcas Is,1
+1042,2015,Orting,8
+1043,2015,Othello,1
+1044,2015,Otis Orchards,5
+1045,2015,Pacific,2
+1046,2015,Pacific Beach,1
+1047,2015,Packwood,1
+1048,2015,Palouse,1
+1049,2015,Parkland,5
+1050,2015,Pasco,17
+1051,2015,Point Roberts,1
+1052,2015,Port Angeles,15
+1053,2015,Port Hadlock,4
+1054,2015,Port Ludlow,4
+1055,2015,Port Orchard,33
+1056,2015,Port Townsend,28
+1057,2015,Poulsbo,25
+1058,2015,Preston,4
+1059,2015,Providence,1
+1060,2015,Pullman,5
+1061,2015,Puyallup,27
+1062,2015,Quilcene,2
+1063,2015,Quincy,1
+1064,2015,Ravensdale,2
+1065,2015,Redmond,111
+1066,2015,Renton,82
+1067,2015,Republic,2
+1068,2015,Richland,17
+1069,2015,Ridgefield,18
+1070,2015,Rochester,5
+1071,2015,Rockford,1
+1072,2015,Ronald,3
+1073,2015,Rosalia,2
+1074,2015,Roslyn,1
+1075,2015,Roy,3
+1076,2015,Sammamish,66
+1077,2015,San Jose,1
+1078,2015,Seabeck,3
+1079,2015,Seatac,16
+1080,2015,Seattle,827
+1081,2015,Sedro-Woolley,8
+1082,2015,Selah,3
+1083,2015,Sequim,20
+1084,2015,Shelton,9
+1085,2015,Shoreline,75
+1086,2015,Silver Creek,1
+1087,2015,Silverdale,11
+1088,2015,Snohomish,55
+1089,2015,Snoqualmie,7
+1090,2015,Snoqualmie Pass,1
+1091,2015,Soap Lake,1
+1092,2015,South Hill,14
+1093,2015,Spanaway,11
+1094,2015,Spangle,1
+1095,2015,Spokane,80
+1096,2015,Spokane Valley,20
+1097,2015,Sprague,1
+1098,2015,Stanwood,14
+1099,2015,Steilacoom,4
+1100,2015,Sultan,3
+1101,2015,Sumner,4
+1102,2015,Suquamish,1
+1103,2015,Tacoma,122
+1104,2015,Tahuya,3
+1105,2015,Tenino,3
+1106,2015,The Dalles,1
+1107,2015,Toledo,2
+1108,2015,Tukwila,20
+1109,2015,Tumwater,28
+1110,2015,Underwood,1
+1111,2015,Union,1
+1112,2015,University Place,24
+1113,2015,Vader,1
+1114,2015,Vancouver,198
+1115,2015,Vashon,42
+1116,2015,Veradale,5
+1117,2015,Waldron,1
+1118,2015,Walla Walla,15
+1119,2015,Washougal,16
+1120,2015,Washtucna,1
+1121,2015,Wenatchee,14
+1122,2015,West Richland,4
+1123,2015,Westminster,1
+1124,2015,Westport,1
+1125,2015,White Salmon,2
+1126,2015,Winlock,2
+1127,2015,Winthrop,1
+1128,2015,Woodinville,52
+1129,2015,Woodland,7
+1130,2015,Woodway,1
+1131,2015,Yacolt,1
+1132,2015,Yakima,13
+1133,2015,Yarrow Point,2
+1134,2015,Yelm,11
+1135,2016,Aberdeen,7
+1136,2016,Acme,1
+1137,2016,Airway Heights,4
+1138,2016,Algona,2
+1139,2016,Allyn,2
+1140,2016,Amanda Park,1
+1141,2016,Anacortes,24
+1142,2016,Anderson Island,2
+1143,2016,Ariel,1
+1144,2016,Arlington,21
+1145,2016,Ashford,1
+1146,2016,Auburn,57
+1147,2016,Bainbridge Island,73
+1148,2016,Battle Ground,23
+1149,2016,Beaux Arts,1
+1150,2016,Belfair,6
+1151,2016,Bellevue,214
+1152,2016,Bellingham,115
+1153,2016,Benton City,5
+1154,2016,Black Diamond,10
+1155,2016,Blaine,12
+1156,2016,Bonney Lake,23
+1157,2016,Bothell,125
+1158,2016,Bow,4
+1159,2016,Bremerton,42
+1160,2016,Brier,6
+1161,2016,Brinnon,1
+1162,2016,Brush Prairie,9
+1163,2016,Buckley,6
+1164,2016,Buena Park,1
+1165,2016,Burien,22
+1166,2016,Burlington,6
+1167,2016,Calabasas,1
+1168,2016,Camano Island,18
+1169,2016,Camas,39
+1170,2016,Carnation,10
+1171,2016,Carson,1
+1172,2016,Cashmere,2
+1173,2016,Castle Rock,1
+1174,2016,Cathlamet,3
+1175,2016,Centralia,12
+1176,2016,Chattaroy,1
+1177,2016,Chehalis,11
+1178,2016,Chelan,4
+1179,2016,Cheney,7
+1180,2016,Chimacum,3
+1181,2016,Clarkston,1
+1182,2016,Cle Elum,3
+1183,2016,Clinton,11
+1184,2016,Clyde Hill,12
+1185,2016,Colbert,3
+1186,2016,College Place,3
+1187,2016,Colville,1
+1188,2016,Concrete,4
+1189,2016,Connell,1
+1190,2016,Copalis Crossing,1
+1191,2016,Cosmopolis,1
+1192,2016,Coulee City,1
+1193,2016,Coupeville,6
+1194,2016,Covington,20
+1195,2016,Custer,2
+1196,2016,Deer Park,2
+1197,2016,Deming,1
+1198,2016,Des Moines,20
+1199,2016,Dupont,7
+1200,2016,Duvall,17
+1201,2016,East Wenatchee,6
+1202,2016,Eastsound,31
+1203,2016,Eatonville,6
+1204,2016,Edgewood,5
+1205,2016,Edmonds,65
+1206,2016,Elk,1
+1207,2016,Ellensburg,10
+1208,2016,Entiat,2
+1209,2016,Enumclaw,10
+1210,2016,Ephrata,2
+1211,2016,Everett,84
+1212,2016,Everson,6
+1213,2016,Fairchild Air Force Base,1
+1214,2016,Fall City,3
+1215,2016,Fayetteville,1
+1216,2016,Federal Way,39
+1217,2016,Ferndale,15
+1218,2016,Fircrest,9
+1219,2016,Fox Island,5
+1220,2016,Freeland,7
+1221,2016,Friday Harbor,22
+1222,2016,Gardena,1
+1223,2016,Gig Harbor,60
+1224,2016,Gold Bar,3
+1225,2016,Goldendale,1
+1226,2016,Graham,18
+1227,2016,Granite Falls,6
+1228,2016,Grapeview,3
+1229,2016,Greenacres,6
+1230,2016,Greenbank,4
+1231,2016,Greenfield Center,1
+1232,2016,Hansville,3
+1233,2016,Hoodsport,1
+1234,2016,Hoquiam,4
+1235,2016,Hunts Point,2
+1236,2016,Husum,1
+1237,2016,Inchelium,1
+1238,2016,Indianola,2
+1239,2016,Issaquah,69
+1240,2016,Joint Base Lewis Mcchord,2
+1241,2016,Kalama,5
+1242,2016,Kelso,5
+1243,2016,Kenmore,25
+1244,2016,Kennewick,39
+1245,2016,Kent,69
+1246,2016,Kettle Falls,1
+1247,2016,Kingston,9
+1248,2016,Kirkland,145
+1249,2016,La Center,8
+1250,2016,La Conner,3
+1251,2016,Lacey,27
+1252,2016,Laguna Niguel,1
+1253,2016,Lake Forest Park,31
+1254,2016,Lake Stevens,38
+1255,2016,Lake Tapps,15
+1256,2016,Lakebay,8
+1257,2016,Lakewood,12
+1258,2016,Langley,6
+1259,2016,Leavenworth,9
+1260,2016,Liberty Lake,2
+1261,2016,Longview,12
+1262,2016,Loon Lake,1
+1263,2016,Lopez Island,8
+1264,2016,Lummi Island,1
+1265,2016,Lynden,11
+1266,2016,Lynnwood,52
+1267,2016,Malaga,2
+1268,2016,Manson,2
+1269,2016,Maple Falls,3
+1270,2016,Maple Valley,41
+1271,2016,Marysville,36
+1272,2016,Mattawa,1
+1273,2016,Mccleary,1
+1274,2016,Mead,2
+1275,2016,Medical Lake,1
+1276,2016,Medina,8
+1277,2016,Mercer Island,80
+1278,2016,Mica,1
+1279,2016,Mill Creek,11
+1280,2016,Milton,2
+1281,2016,Monroe,20
+1282,2016,Montesano,2
+1283,2016,Morton,1
+1284,2016,Moses Lake,11
+1285,2016,Mossyrock,1
+1286,2016,Mount Vernon,22
+1287,2016,Mountlake Terrace,12
+1288,2016,Mukilteo,19
+1289,2016,Naches,1
+1290,2016,Napavine,1
+1291,2016,Newcastle,18
+1292,2016,Nine Mile Falls,6
+1293,2016,Nooksack,1
+1294,2016,Nordland,4
+1295,2016,Normandy Park,8
+1296,2016,North Bend,15
+1297,2016,Norwich,1
+1298,2016,Oak Harbor,26
+1299,2016,Ocean Park,3
+1300,2016,Ocean Shores,7
+1301,2016,Olalla,3
+1302,2016,Olga,3
+1303,2016,Olympia,140
+1304,2016,Omaha,1
+1305,2016,Onalaska,1
+1306,2016,Orlando,1
+1307,2016,Orondo,4
+1308,2016,Orting,8
+1309,2016,Othello,2
+1310,2016,Otis Orchards,1
+1311,2016,Pacific,3
+1312,2016,Pacific Beach,6
+1313,2016,Packwood,1
+1314,2016,Palouse,1
+1315,2016,Parkland,7
+1316,2016,Pasco,32
+1317,2016,Point Roberts,4
+1318,2016,Port Angeles,8
+1319,2016,Port Hadlock,3
+1320,2016,Port Ludlow,2
+1321,2016,Port Orchard,32
+1322,2016,Port Townsend,26
+1323,2016,Poulsbo,29
+1324,2016,Preston,2
+1325,2016,Prosser,2
+1326,2016,Pullman,4
+1327,2016,Puyallup,39
+1328,2016,Quilcene,3
+1329,2016,Quincy,1
+1330,2016,Rainier,3
+1331,2016,Ravensdale,3
+1332,2016,Raymond,1
+1333,2016,Redmond,122
+1334,2016,Renton,106
+1335,2016,Richland,19
+1336,2016,Ridgefield,18
+1337,2016,Rochester,7
+1338,2016,Rockford,1
+1339,2016,Roslyn,1
+1340,2016,Roy,4
+1341,2016,Sammamish,95
+1342,2016,San Diego,1
+1343,2016,Scottsdale,1
+1344,2016,Seabeck,5
+1345,2016,Seatac,15
+1346,2016,Seattle,954
+1347,2016,Sedro Woolley,3
+1348,2016,Sedro-Woolley,7
+1349,2016,Selah,2
+1350,2016,Sequim,19
+1351,2016,Shaw Island,1
+1352,2016,Shelton,10
+1353,2016,Shoreline,75
+1354,2016,Silverdale,11
+1355,2016,Snohomish,53
+1356,2016,Snoqualmie,7
+1357,2016,Snowden,2
+1358,2016,South Bend,1
+1359,2016,South Hill,23
+1360,2016,Spanaway,15
+1361,2016,Spangle,3
+1362,2016,Spokane,98
+1363,2016,Spokane Valley,35
+1364,2016,Stanhope,1
+1365,2016,Stanwood,18
+1366,2016,Steilacoom,5
+1367,2016,Stevenson,2
+1368,2016,Sultan,10
+1369,2016,Sumas,1
+1370,2016,Sumner,2
+1371,2016,Sunnyside,3
+1372,2016,Suquamish,5
+1373,2016,Surfside,1
+1374,2016,Tacoma,145
+1375,2016,Taholah,1
+1376,2016,Tahuya,1
+1377,2016,Tenino,3
+1378,2016,Tieton,2
+1379,2016,Tooele,1
+1380,2016,Toppenish,2
+1381,2016,Touchet,1
+1382,2016,Trout Lake,1
+1383,2016,Tukwila,16
+1384,2016,Tulalip,1
+1385,2016,Tumwater,25
+1386,2016,Twisp,3
+1387,2016,Union,3
+1388,2016,University Place,18
+1389,2016,Vancouver,200
+1390,2016,Vashon,40
+1391,2016,Vaughn,2
+1392,2016,Veradale,3
+1393,2016,Walla Walla,17
+1394,2016,Wapato,1
+1395,2016,Warden,1
+1396,2016,Washougal,21
+1397,2016,Wenatchee,11
+1398,2016,West Richland,8
+1399,2016,Westport,1
+1400,2016,White Salmon,5
+1401,2016,White Swan,1
+1402,2016,Wilbur,1
+1403,2016,Winlock,3
+1404,2016,Woodinville,72
+1405,2016,Woodland,6
+1406,2016,Woodway,4
+1407,2016,Yacolt,3
+1408,2016,Yakima,27
+1409,2016,Yarrow Point,5
+1410,2016,Yelm,7
+1411,2017,Aberdeen,9
+1412,2017,Airway Heights,2
+1413,2017,Algona,1
+1414,2017,Allyn,5
+1415,2017,Alvord,1
+1416,2017,Amboy,5
+1417,2017,Anacortes,48
+1418,2017,Anderson Island,3
+1419,2017,Ariel,1
+1420,2017,Arlington,35
+1421,2017,Ashford,3
+1422,2017,Asotin,2
+1423,2017,Auburn,112
+1424,2017,Bainbridge Island,102
+1425,2017,Battle Ground,41
+1426,2017,Baytown,1
+1427,2017,Beaux Arts,3
+1428,2017,Belfair,11
+1429,2017,Bellevue,308
+1430,2017,Bellingham,185
+1431,2017,Benton City,9
+1432,2017,Bethesda,1
+1433,2017,Bingen,1
+1434,2017,Black Diamond,17
+1435,2017,Blaine,22
+1436,2017,Bonney Lake,35
+1437,2017,Bothell,167
+1438,2017,Bow,6
+1439,2017,Bremerton,68
+1440,2017,Brier,13
+1441,2017,Brinnon,2
+1442,2017,Brush Prairie,16
+1443,2017,Buckley,10
+1444,2017,Burbank,1
+1445,2017,Burien,58
+1446,2017,Burlington,11
+1447,2017,Bz Corner,1
+1448,2017,Camano Island,22
+1449,2017,Camas,74
+1450,2017,Carnation,21
+1451,2017,Carson,2
+1452,2017,Cashmere,5
+1453,2017,Castle Rock,3
+1454,2017,Cathlamet,2
+1455,2017,Centralia,19
+1456,2017,Chattaroy,1
+1457,2017,Chehalis,15
+1458,2017,Chelan,11
+1459,2017,Cheney,9
+1460,2017,Chewelah,3
+1461,2017,Chimacum,3
+1462,2017,Cinebar,1
+1463,2017,Clarkston,2
+1464,2017,Cle Elum,10
+1465,2017,Clinton,15
+1466,2017,Clyde Hill,15
+1467,2017,Colbert,4
+1468,2017,College Place,4
+1469,2017,Colorado Springs,1
+1470,2017,Colton,1
+1471,2017,Colville,3
+1472,2017,Concrete,2
+1473,2017,Connell,3
+1474,2017,Coupeville,11
+1475,2017,Covington,29
+1476,2017,Cowiche,1
+1477,2017,Crestview,1
+1478,2017,Dallesport,1
+1479,2017,Darrington,1
+1480,2017,Davenport,1
+1481,2017,Dayton,5
+1482,2017,Deer Harbor,1
+1483,2017,Deer Park,6
+1484,2017,Deming,3
+1485,2017,Derby,1
+1486,2017,Des Moines,26
+1487,2017,Dupont,12
+1488,2017,Duvall,33
+1489,2017,East Wenatchee,15
+1490,2017,Easton,1
+1491,2017,Eastsound,32
+1492,2017,Eatonville,8
+1493,2017,Edgewater,1
+1494,2017,Edgewood,13
+1495,2017,Edmonds,83
+1496,2017,Edwall,1
+1497,2017,Edwards,1
+1498,2017,El Paso,1
+1499,2017,Elk,6
+1500,2017,Ellensburg,16
+1501,2017,Elma,2
+1502,2017,Enumclaw,19
+1503,2017,Ephrata,4
+1504,2017,Everett,148
+1505,2017,Everson,8
+1506,2017,Fall City,17
+1507,2017,Federal Way,69
+1508,2017,Ferndale,26
+1509,2017,Fife,5
+1510,2017,Fircrest,8
+1511,2017,Forks,2
+1512,2017,Fort Bragg,1
+1513,2017,Fort Leavenworth,1
+1514,2017,Fort Wayne,1
+1515,2017,Fox Island,17
+1516,2017,Freeland,14
+1517,2017,Fresno,1
+1518,2017,Friday Harbor,38
+1519,2017,Garfield,1
+1520,2017,Gig Harbor,89
+1521,2017,Gold Bar,9
+1522,2017,Goldendale,1
+1523,2017,Graham,13
+1524,2017,Grandview,4
+1525,2017,Granite Falls,11
+1526,2017,Grapeview,5
+1527,2017,Grayland,1
+1528,2017,Greenacres,4
+1529,2017,Greenbank,3
+1530,2017,Hansville,3
+1531,2017,Harrah,1
+1532,2017,Harrington,1
+1533,2017,Hidden Hills,1
+1534,2017,Hoodsport,7
+1535,2017,Hoquiam,2
+1536,2017,Hunts Point,1
+1537,2017,Husum,1
+1538,2017,Ilwaco,3
+1539,2017,Issaquah,99
+1540,2017,Joint Base Lewis Mcchord,5
+1541,2017,Kalama,5
+1542,2017,Kapowsin,2
+1543,2017,Kelso,14
+1544,2017,Kenmore,48
+1545,2017,Kennewick,67
+1546,2017,Kent,135
+1547,2017,Kettle Falls,2
+1548,2017,Keyport,3
+1549,2017,Kingston,16
+1550,2017,Kirkland,202
+1551,2017,Kittitas,1
+1552,2017,La Center,20
+1553,2017,La Conner,6
+1554,2017,Lacey,54
+1555,2017,Lake Forest Park,39
+1556,2017,Lake Stevens,62
+1557,2017,Lake Tapps,10
+1558,2017,Lakebay,13
+1559,2017,Lakewood,44
+1560,2017,Lamont,1
+1561,2017,Langley,16
+1562,2017,Latah,1
+1563,2017,Leavenworth,18
+1564,2017,Liberty Lake,12
+1565,2017,Lincoln,1
+1566,2017,Long Beach,4
+1567,2017,Longbranch,1
+1568,2017,Longview,30
+1569,2017,Loon Lake,1
+1570,2017,Lopez Is,1
+1571,2017,Lopez Island,11
+1572,2017,Lummi Island,4
+1573,2017,Lyman,1
+1574,2017,Lynden,18
+1575,2017,Lynnwood,91
+1576,2017,Manassas,1
+1577,2017,Manson,1
+1578,2017,Maple Falls,6
+1579,2017,Maple Valley,64
+1580,2017,Marysville,65
+1581,2017,Mccleary,2
+1582,2017,Mead,8
+1583,2017,Medical Lake,1
+1584,2017,Medina,13
+1585,2017,Mercer Island,93
+1586,2017,Mesa,1
+1587,2017,Mill Creek,19
+1588,2017,Milton,5
+1589,2017,Mineral,2
+1590,2017,Monroe,30
+1591,2017,Montesano,8
+1592,2017,Morton,1
+1593,2017,Moses Lake,17
+1594,2017,Mossyrock,2
+1595,2017,Mount Vernon,44
+1596,2017,Mountlake Terrace,23
+1597,2017,Moxee,3
+1598,2017,Mukilteo,40
+1599,2017,Murdock,1
+1600,2017,Newcastle,23
+1601,2017,Newman Lake,1
+1602,2017,Newport,6
+1603,2017,Nine Mile Falls,7
+1604,2017,Nooksack,1
+1605,2017,Nordland,4
+1606,2017,Normandy Park,19
+1607,2017,North Bend,34
+1608,2017,North Bonneville,1
+1609,2017,Novato,1
+1610,2017,Oak Harbor,36
+1611,2017,Oakville,2
+1612,2017,Ocean Park,2
+1613,2017,Ocean Shores,7
+1614,2017,Okanogan,1
+1615,2017,Olalla,4
+1616,2017,Olga,2
+1617,2017,Olympia,340
+1618,2017,Onalaska,3
+1619,2017,Orcas,1
+1620,2017,Orcas Is,1
+1621,2017,Orondo,2
+1622,2017,Orting,14
+1623,2017,Othello,3
+1624,2017,Otis Orchards,3
+1625,2017,Outlook,1
+1626,2017,Oysterville,1
+1627,2017,Pacific,4
+1628,2017,Pacific Beach,1
+1629,2017,Parkland,5
+1630,2017,Pasco,30
+1631,2017,Pensacola,1
+1632,2017,Peshastin,1
+1633,2017,Plymouth,1
+1634,2017,Point Roberts,5
+1635,2017,Pomeroy,1
+1636,2017,Port Angeles,32
+1637,2017,Port Hadlock,5
+1638,2017,Port Ludlow,7
+1639,2017,Port Orchard,77
+1640,2017,Port Townsend,59
+1641,2017,Portland,1
+1642,2017,Poulsbo,41
+1643,2017,Preston,2
+1644,2017,Prosser,2
+1645,2017,Pullman,19
+1646,2017,Puyallup,71
+1647,2017,Quilcene,1
+1648,2017,Quincy,5
+1649,2017,Rainier,3
+1650,2017,Ravensdale,8
+1651,2017,Raymond,3
+1652,2017,Reardan,1
+1653,2017,Redmond,210
+1654,2017,Renton,157
+1655,2017,Richland,45
+1656,2017,Ridgefield,41
+1657,2017,Ritzville,1
+1658,2017,Rochester,6
+1659,2017,Rock Island,1
+1660,2017,Ronald,2
+1661,2017,Roy,9
+1662,2017,Royal City,1
+1663,2017,Ruston,1
+1664,2017,Ryderwood,1
+1665,2017,Sammamish,145
+1666,2017,San Diego,1
+1667,2017,San Juan Is,1
+1668,2017,Seabeck,6
+1669,2017,Seaside,1
+1670,2017,Seatac,24
+1671,2017,Seattle,1467
+1672,2017,Sedro Woolley,4
+1673,2017,Sedro-Woolley,14
+1674,2017,Sekiu,1
+1675,2017,Selah,5
+1676,2017,Sequim,56
+1677,2017,Shaw Island,2
+1678,2017,Shelton,28
+1679,2017,Shoreline,95
+1680,2017,Silver Creek,1
+1681,2017,Silverdale,20
+1682,2017,Silverlake,2
+1683,2017,Skamokawa,1
+1684,2017,Skykomish,2
+1685,2017,Snohomish,93
+1686,2017,Snoqualmie,20
+1687,2017,Snoqualmie Pass,2
+1688,2017,Soap Lake,2
+1689,2017,South Hill,22
+1690,2017,Spanaway,28
+1691,2017,Spokane,170
+1692,2017,Spokane Valley,29
+1693,2017,Stanwood,29
+1694,2017,Steilacoom,15
+1695,2017,Stevenson,2
+1696,2017,Sultan,4
+1697,2017,Sumner,10
+1698,2017,Sunnyside,6
+1699,2017,Suquamish,9
+1700,2017,Tacoma,253
+1701,2017,Taholah,1
+1702,2017,Tekoa,1
+1703,2017,Tenino,4
+1704,2017,Toledo,2
+1705,2017,Tonasket,2
+1706,2017,Toppenish,1
+1707,2017,Trout Lake,2
+1708,2017,Tukwila,20
+1709,2017,Tumwater,77
+1710,2017,Twisp,4
+1711,2017,Union,1
+1712,2017,Union Gap,2
+1713,2017,University Place,43
+1714,2017,Vader,2
+1715,2017,Valleyford,1
+1716,2017,Vancouver,356
+1717,2017,Vashon,60
+1718,2017,Vaughn,1
+1719,2017,Veradale,5
+1720,2017,Wahkiacus,1
+1721,2017,Waitsburg,1
+1722,2017,Waldron,2
+1723,2017,Walla Walla,19
+1724,2017,Washougal,33
+1725,2017,Waterville,1
+1726,2017,Wenatchee,26
+1727,2017,West Richland,19
+1728,2017,Westport,3
+1729,2017,White Salmon,6
+1730,2017,Wilkeson,1
+1731,2017,Winlock,6
+1732,2017,Winthrop,9
+1733,2017,Woodinville,98
+1734,2017,Woodland,6
+1735,2017,Woodway,3
+1736,2017,Yacolt,5
+1737,2017,Yakima,32
+1738,2017,Yarrow Point,6
+1739,2017,Yelm,15
+1740,2017,Zillah,1
+1741,2018,Aberdeen,19
+1742,2018,Airway Heights,2
+1743,2018,Alexandria,1
+1744,2018,Algona,6
+1745,2018,Allyn,11
+1746,2018,Amboy,1
+1747,2018,Anacortes,66
+1748,2018,Ariel,1
+1749,2018,Arlington,48
+1750,2018,Ashford,2
+1751,2018,Auburn,163
+1752,2018,Bainbridge Island,156
+1753,2018,Baring,1
+1754,2018,Battle Ground,56
+1755,2018,Beaux Arts,5
+1756,2018,Belfair,7
+1757,2018,Bellevue,751
+1758,2018,Bellingham,255
+1759,2018,Benton City,14
+1760,2018,Bingen,1
+1761,2018,Black Diamond,13
+1762,2018,Blaine,35
+1763,2018,Bonney Lake,66
+1764,2018,Bothell,395
+1765,2018,Bow,9
+1766,2018,Bremerton,102
+1767,2018,Brewster,1
+1768,2018,Brier,17
+1769,2018,Brinnon,1
+1770,2018,Brooklyn,1
+1771,2018,Brush Prairie,28
+1772,2018,Buckley,15
+1773,2018,Burbank,3
+1774,2018,Burien,98
+1775,2018,Burlington,16
+1776,2018,Bz Corner,1
+1777,2018,Camano Island,45
+1778,2018,Camas,114
+1779,2018,Carbonado,1
+1780,2018,Carnation,19
+1781,2018,Carson,2
+1782,2018,Cashmere,8
+1783,2018,Castle Rock,2
+1784,2018,Cathlamet,5
+1785,2018,Centerville,1
+1786,2018,Centralia,18
+1787,2018,Chattaroy,3
+1788,2018,Chehalis,23
+1789,2018,Chelan,19
+1790,2018,Cheney,11
+1791,2018,Chinook,1
+1792,2018,Chula Vista,1
+1793,2018,Clarkston,6
+1794,2018,Clayton,1
+1795,2018,Cle Elum,20
+1796,2018,Clinton,16
+1797,2018,Clyde Hill,30
+1798,2018,Colbert,9
+1799,2018,Colfax,9
+1800,2018,College Place,7
+1801,2018,Colville,7
+1802,2018,Concrete,5
+1803,2018,Connell,1
+1804,2018,Conroe,1
+1805,2018,Copalis Beach,1
+1806,2018,Cosmopolis,3
+1807,2018,Cougar,1
+1808,2018,Coulee Dam,1
+1809,2018,Coupeville,27
+1810,2018,Covington,42
+1811,2018,Curlew,1
+1812,2018,Curtis,1
+1813,2018,Custer,1
+1814,2018,Dallesport,1
+1815,2018,Damascus,1
+1816,2018,Danville,1
+1817,2018,Darrington,2
+1818,2018,Davenport,6
+1819,2018,Dayton,1
+1820,2018,Deer Park,8
+1821,2018,Deming,3
+1822,2018,Des Moines,44
+1823,2018,Dupont,11
+1824,2018,Durango,1
+1825,2018,Duvall,52
+1826,2018,East Wenatchee,28
+1827,2018,Eastsound,21
+1828,2018,Eatonville,11
+1829,2018,Edgewood,25
+1830,2018,Edmonds,170
+1831,2018,Elk,3
+1832,2018,Ellensburg,24
+1833,2018,Elma,8
+1834,2018,Eltopia,1
+1835,2018,Entiat,3
+1836,2018,Enumclaw,35
+1837,2018,Ephrata,5
+1838,2018,Ethel,1
+1839,2018,Evans,1
+1840,2018,Evans Mills,1
+1841,2018,Everett,216
+1842,2018,Everson,4
+1843,2018,Fairchild Air Force Base,3
+1844,2018,Fall City,23
+1845,2018,Federal Way,135
+1846,2018,Ferndale,32
+1847,2018,Fife,16
+1848,2018,Fircrest,10
+1849,2018,Fort Wayne,1
+1850,2018,Fox Island,18
+1851,2018,Freeland,19
+1852,2018,Friday Harbor,38
+1853,2018,Galvin,1
+1854,2018,Gambrills,1
+1855,2018,Gig Harbor,147
+1856,2018,Glacier,1
+1857,2018,Gladstone,1
+1858,2018,Gold Bar,2
+1859,2018,Goldendale,3
+1860,2018,Goshen,1
+1861,2018,Graham,30
+1862,2018,Grand Coulee,1
+1863,2018,Grandview,6
+1864,2018,Granite Falls,13
+1865,2018,Grapeview,8
+1866,2018,Grayland,1
+1867,2018,Greenacres,10
+1868,2018,Greenbank,2
+1869,2018,Hansville,3
+1870,2018,Herndon,1
+1871,2018,Hoodsport,3
+1872,2018,Hoquiam,4
+1873,2018,Hunts Point,3
+1874,2018,Husum,1
+1875,2018,Indianola,6
+1876,2018,Issaquah,213
+1877,2018,Joint Base Lewis Mcchord,4
+1878,2018,Kalama,6
+1879,2018,Kelso,21
+1880,2018,Kenmore,98
+1881,2018,Kennewick,101
+1882,2018,Kent,193
+1883,2018,Kettle Falls,3
+1884,2018,Kihei,1
+1885,2018,Kingston,25
+1886,2018,Kirkland,467
+1887,2018,Klickitat,1
+1888,2018,La Center,16
+1889,2018,La Conner,15
+1890,2018,Lacey,69
+1891,2018,Lake Forest Park,53
+1892,2018,Lake Stevens,109
+1893,2018,Lake Tapps,23
+1894,2018,Lakebay,8
+1895,2018,Lakewood,73
+1896,2018,Langley,24
+1897,2018,Latah,1
+1898,2018,Laurel,1
+1899,2018,Leavenworth,18
+1900,2018,Liberty Lake,12
+1901,2018,Lilliwaup,2
+1902,2018,Long Beach,6
+1903,2018,Longbranch,2
+1904,2018,Longview,28
+1905,2018,Loon Lake,2
+1906,2018,Lopez Island,10
+1907,2018,Lummi Island,1
+1908,2018,Lyle,1
+1909,2018,Lynden,25
+1910,2018,Lynnwood,194
+1911,2018,Madison,1
+1912,2018,Maitland,1
+1913,2018,Malaga,3
+1914,2018,Manson,9
+1915,2018,Maple Falls,6
+1916,2018,Maple Valley,86
+1917,2018,Marysville,99
+1918,2018,Mattawa,4
+1919,2018,Mazama,3
+1920,2018,Mccleary,2
+1921,2018,Mead,4
+1922,2018,Medical Lake,3
+1923,2018,Medina,26
+1924,2018,Menlo,1
+1925,2018,Mercer Island,206
+1926,2018,Middletown,1
+1927,2018,Mill Creek,63
+1928,2018,Milton,16
+1929,2018,Monroe,53
+1930,2018,Montesano,4
+1931,2018,Montgomery,1
+1932,2018,Morton,3
+1933,2018,Moses Lake,34
+1934,2018,Mossyrock,3
+1935,2018,Mount Vernon,53
+1936,2018,Mountlake Terrace,36
+1937,2018,Moxee,5
+1938,2018,Mukilteo,62
+1939,2018,Naches,2
+1940,2018,Napavine,1
+1941,2018,Naselle,1
+1942,2018,Neah Bay,1
+1943,2018,New York,1
+1944,2018,Newcastle,70
+1945,2018,Newman Lake,5
+1946,2018,Newport,3
+1947,2018,Nine Mile Falls,9
+1948,2018,Nooksack,3
+1949,2018,Nordland,5
+1950,2018,Normandy Park,26
+1951,2018,North Bend,45
+1952,2018,North Bonneville,2
+1953,2018,Oak Harbor,47
+1954,2018,Oakville,3
+1955,2018,Ocean Park,7
+1956,2018,Ocean Shores,8
+1957,2018,Oceanside,1
+1958,2018,Okanogan,1
+1959,2018,Olalla,9
+1960,2018,Olga,5
+1961,2018,Olympia,335
+1962,2018,Omaha,1
+1963,2018,Omak,3
+1964,2018,Onalaska,5
+1965,2018,Orondo,1
+1966,2018,Oroville,3
+1967,2018,Orting,14
+1968,2018,Othello,5
+1969,2018,Otis Orchards,3
+1970,2018,Outlook,1
+1971,2018,Pacific,4
+1972,2018,Pacific Beach,4
+1973,2018,Packwood,1
+1974,2018,Palouse,3
+1975,2018,Parkland,5
+1976,2018,Pasc,1
+1977,2018,Pasco,68
+1978,2018,Pateros,1
+1979,2018,Pe Ell,1
+1980,2018,Peshastin,3
+1981,2018,Point Roberts,6
+1982,2018,Port Angeles,42
+1983,2018,Port Gamble,1
+1984,2018,Port Hadlock,5
+1985,2018,Port Ludlow,11
+1986,2018,Port Orchard,87
+1987,2018,Port Townsend,50
+1988,2018,Portland,1
+1989,2018,Poulsbo,71
+1990,2018,Preston,4
+1991,2018,Prosser,2
+1992,2018,Pullman,16
+1993,2018,Puyallup,113
+1994,2018,Quilcene,4
+1995,2018,Quincy,10
+1996,2018,Rainier,2
+1997,2018,Randle,1
+1998,2018,Ravensdale,8
+1999,2018,Raymond,1
+2000,2018,Redmond,542
+2001,2018,Renton,335
+2002,2018,Republic,2
+2003,2018,Richland,92
+2004,2018,Ridgefield,61
+2005,2018,Rochester,8
+2006,2018,Rock Island,3
+2007,2018,Rockford,1
+2008,2018,Ronald,3
+2009,2018,Rosalia,1
+2010,2018,Rosburg,1
+2011,2018,Roslyn,1
+2012,2018,Roy,14
+2013,2018,Royal City,3
+2014,2018,Saint Jacob,1
+2015,2018,Sammamish,437
+2016,2018,San Diego,3
+2017,2018,San Francisco,1
+2018,2018,Scottsdale,2
+2019,2018,Seabeck,7
+2020,2018,Seatac,54
+2021,2018,Seattle,2468
+2022,2018,Seaview,1
+2023,2018,Sedro Woolley,4
+2024,2018,Sedro-Woolley,28
+2025,2018,Selah,15
+2026,2018,Sequim,51
+2027,2018,Shaw Island,1
+2028,2018,Shelton,36
+2029,2018,Shoreline,156
+2030,2018,Silver Creek,1
+2031,2018,Silverdale,29
+2032,2018,Silverlake,2
+2033,2018,Skamokawa,2
+2034,2018,Snohomish,164
+2035,2018,Snoqualmie,57
+2036,2018,Snoqualmie Pass,2
+2037,2018,Soap Lake,1
+2038,2018,South Cle Elum,2
+2039,2018,South Hill,42
+2040,2018,South Prairie,2
+2041,2018,Spanaway,42
+2042,2018,Spokane,226
+2043,2018,Spokane Valley,43
+2044,2018,Spring Lake,1
+2045,2018,Stanwood,43
+2046,2018,Steilacoom,12
+2047,2018,Stevenson,7
+2048,2018,Suffolk,2
+2049,2018,Sultan,18
+2050,2018,Sumas,1
+2051,2018,Summersville,1
+2052,2018,Sumner,4
+2053,2018,Sunnyside,5
+2054,2018,Suquamish,10
+2055,2018,Tacoma,349
+2056,2018,Taholah,3
+2057,2018,Tahuya,2
+2058,2018,Tampa,1
+2059,2018,Tenino,5
+2060,2018,Tieton,1
+2061,2018,Timnath,1
+2062,2018,Toledo,6
+2063,2018,Tonasket,2
+2064,2018,Toppenish,6
+2065,2018,Toutle,1
+2066,2018,Trout Lake,3
+2067,2018,Tukwila,33
+2068,2018,Tumwater,68
+2069,2018,Twisp,1
+2070,2018,Underwood,2
+2071,2018,Union,2
+2072,2018,Union Gap,2
+2073,2018,University Place,59
+2074,2018,Valley,1
+2075,2018,Valleyford,1
+2076,2018,Vancouver,511
+2077,2018,Vashon,62
+2078,2018,Vaughn,5
+2079,2018,Veradale,4
+2080,2018,Virginia Beach,1
+2081,2018,Waitsburg,2
+2082,2018,Walla Walla,39
+2083,2018,Walla Walla Co,1
+2084,2018,Wapato,5
+2085,2018,Warden,1
+2086,2018,Washington,2
+2087,2018,Washougal,52
+2088,2018,Waterville,1
+2089,2018,Wenatchee,33
+2090,2018,West Richland,28
+2091,2018,Westport,5
+2092,2018,White Salmon,10
+2093,2018,Wildomar,1
+2094,2018,Wilkeson,1
+2095,2018,Winlock,5
+2096,2018,Winthrop,10
+2097,2018,Woodinville,207
+2098,2018,Woodland,17
+2099,2018,Woodway,14
+2100,2018,Yacolt,1
+2101,2018,Yakima,68
+2102,2018,Yarrow Point,15
+2103,2018,Yelm,24
+2104,2018,Zillah,1
+2105,2019,Aberdeen,18
+2106,2019,Acme,1
+2107,2019,Airway Heights,1
+2108,2019,Algona,3
+2109,2019,Allyn,2
+2110,2019,Amboy,2
+2111,2019,Anacortes,43
+2112,2019,Anderson Island,2
+2113,2019,Arcadia,1
+2114,2019,Arlington,31
+2115,2019,Ashford,2
+2116,2019,Auburn,137
+2117,2019,Austin,1
+2118,2019,Bainbridge Island,115
+2119,2019,Battle Ground,37
+2120,2019,Beaux Arts,4
+2121,2019,Belfair,7
+2122,2019,Bellevue,454
+2123,2019,Bellingham,240
+2124,2019,Benton City,5
+2125,2019,Black Diamond,24
+2126,2019,Blaine,29
+2127,2019,Bonney Lake,46
+2128,2019,Bothell,302
+2129,2019,Bow,11
+2130,2019,Bremerton,85
+2131,2019,Brewster,2
+2132,2019,Bridgeport Bar,1
+2133,2019,Brier,16
+2134,2019,Brush Prairie,22
+2135,2019,Buckley,20
+2136,2019,Burien,77
+2137,2019,Burke,1
+2138,2019,Burlington,11
+2139,2019,Bz Corner,2
+2140,2019,Camano Island,33
+2141,2019,Camas,76
+2142,2019,Carbonado,1
+2143,2019,Carlton,2
+2144,2019,Carnation,23
+2145,2019,Carson,1
+2146,2019,Cashmere,8
+2147,2019,Castle Rock,6
+2148,2019,Cathlamet,9
+2149,2019,Centerville,1
+2150,2019,Centralia,13
+2151,2019,Chattaroy,1
+2152,2019,Chehalis,13
+2153,2019,Chelan,4
+2154,2019,Cheney,13
+2155,2019,Chewelah,2
+2156,2019,Chimacum,1
+2157,2019,Cinebar,1
+2158,2019,Clarkston,1
+2159,2019,Cle Elum,9
+2160,2019,Clearlake,1
+2161,2019,Clinton,18
+2162,2019,Clyde Hill,21
+2163,2019,Colbert,5
+2164,2019,Colfax,1
+2165,2019,College Place,4
+2166,2019,Colorado Springs,2
+2167,2019,Colton,1
+2168,2019,Colville,1
+2169,2019,Concrete,7
+2170,2019,Connell,1
+2171,2019,Copalis Beach,2
+2172,2019,Coulee Dam,1
+2173,2019,Coupeville,16
+2174,2019,Covington,23
+2175,2019,Cusick,1
+2176,2019,Custer,1
+2177,2019,Dallesport,3
+2178,2019,Davenport,3
+2179,2019,Decatur,1
+2180,2019,Deer Park,3
+2181,2019,Deming,1
+2182,2019,Des Moines,25
+2183,2019,Dupont,8
+2184,2019,Duvall,31
+2185,2019,East Wenatchee,21
+2186,2019,Easton,1
+2187,2019,Eastsound,30
+2188,2019,Eatonville,10
+2189,2019,Edgewood,20
+2190,2019,Edmonds,127
+2191,2019,Edwall,1
+2192,2019,Elk,3
+2193,2019,Ellensburg,23
+2194,2019,Elma,10
+2195,2019,Entiat,1
+2196,2019,Enumclaw,32
+2197,2019,Ephrata,5
+2198,2019,Everett,164
+2199,2019,Everson,4
+2200,2019,Fairchild Air Force Base,2
+2201,2019,Fall City,17
+2202,2019,Federal Way,87
+2203,2019,Ferndale,17
+2204,2019,Fife,3
+2205,2019,Fircrest,7
+2206,2019,Ford,1
+2207,2019,Forks,3
+2208,2019,Fort Belvoir,1
+2209,2019,Fort Gregg Adams,1
+2210,2019,Fort Leavenworth,1
+2211,2019,Fox Island,15
+2212,2019,Fredericksburg,1
+2213,2019,Freeland,14
+2214,2019,Friday Harbor,31
+2215,2019,Gig Harbor,128
+2216,2019,Glacier,2
+2217,2019,Gold Bar,3
+2218,2019,Goldendale,4
+2219,2019,Graham,23
+2220,2019,Grand Coulee,1
+2221,2019,Grandview,2
+2222,2019,Granger,1
+2223,2019,Granite Falls,7
+2224,2019,Grapeview,3
+2225,2019,Grayland,1
+2226,2019,Grays River,1
+2227,2019,Green Bay,1
+2228,2019,Greenacres,10
+2229,2019,Greenbank,4
+2230,2019,Hansville,3
+2231,2019,Holden Village,1
+2232,2019,Hoodsport,3
+2233,2019,Hoquiam,4
+2234,2019,Hunts Point,4
+2235,2019,Husum,3
+2236,2019,Hyde Park,1
+2237,2019,Indianola,6
+2238,2019,Irvine,1
+2239,2019,Issaquah,148
+2240,2019,Joint Base Lewis Mcchord,2
+2241,2019,Kalama,8
+2242,2019,Kapowsin,1
+2243,2019,Kelso,12
+2244,2019,Kenmore,65
+2245,2019,Kennewick,74
+2246,2019,Kent,157
+2247,2019,Kettle Falls,4
+2248,2019,Keyport,1
+2249,2019,Kingston,14
+2250,2019,Kirkland,303
+2251,2019,La Center,14
+2252,2019,La Conner,5
+2253,2019,Lacey,64
+2254,2019,Lake Forest Park,43
+2255,2019,Lake Stevens,71
+2256,2019,Lake Tapps,19
+2257,2019,Lakebay,8
+2258,2019,Lakewood,53
+2259,2019,Langley,18
+2260,2019,Leavenworth,21
+2261,2019,Liberty Lake,12
+2262,2019,Long Beach,3
+2263,2019,Longbranch,2
+2264,2019,Longview,14
+2265,2019,Loon Lake,1
+2266,2019,Lopez Island,18
+2267,2019,Lummi Island,5
+2268,2019,Lyle,3
+2269,2019,Lynden,10
+2270,2019,Lynnwood,161
+2271,2019,Mabton,2
+2272,2019,Malaga,2
+2273,2019,Manson,5
+2274,2019,Maple Falls,2
+2275,2019,Maple Valley,75
+2276,2019,Marysville,95
+2277,2019,Mattawa,1
+2278,2019,Mazama,1
+2279,2019,McChord AFB,1
+2280,2019,Mccleary,4
+2281,2019,Mead,4
+2282,2019,Medical Lake,6
+2283,2019,Medina,26
+2284,2019,Mercer Island,139
+2285,2019,Mica,1
+2286,2019,Mill Creek,35
+2287,2019,Milton,5
+2288,2019,Mineral,1
+2289,2019,Minneapolis,1
+2290,2019,Moclips,1
+2291,2019,Monroe,44
+2292,2019,Montesano,9
+2293,2019,Moorpark,1
+2294,2019,Moses Lake,20
+2295,2019,Mossyrock,3
+2296,2019,Mount Vernon,53
+2297,2019,Mountlake Terrace,34
+2298,2019,Moxee,3
+2299,2019,Mukilteo,35
+2300,2019,Naches,2
+2301,2019,Napavine,1
+2302,2019,Naselle,1
+2303,2019,Nespelem,1
+2304,2019,Newcastle,45
+2305,2019,Newington,1
+2306,2019,Newman Lake,1
+2307,2019,Newport,1
+2308,2019,Nine Mile Falls,11
+2309,2019,Nordland,3
+2310,2019,Normandy Park,16
+2311,2019,North Bend,37
+2312,2019,North Bonneville,1
+2313,2019,Oak Harbor,36
+2314,2019,Oakville,2
+2315,2019,Ocean Park,2
+2316,2019,Ocean Shores,4
+2317,2019,Olalla,3
+2318,2019,Olga,2
+2319,2019,Olympia,313
+2320,2019,Orcas Is,1
+2321,2019,Orondo,4
+2322,2019,Oroville,2
+2323,2019,Orting,9
+2324,2019,Othello,2
+2325,2019,Otis Orchards,2
+2326,2019,Outlook,1
+2327,2019,Pacific,5
+2328,2019,Packwood,2
+2329,2019,Palisades,1
+2330,2019,Palouse,1
+2331,2019,Parkland,5
+2332,2019,Pasco,46
+2333,2019,Peshastin,2
+2334,2019,Point Roberts,3
+2335,2019,Port Angeles,48
+2336,2019,Port Ludlow,10
+2337,2019,Port Orchard,79
+2338,2019,Port Townsend,62
+2339,2019,Portsmouth,1
+2340,2019,Poulsbo,56
+2341,2019,Preston,1
+2342,2019,Prosser,5
+2343,2019,Pullman,19
+2344,2019,Puyallup,74
+2345,2019,Quilcene,3
+2346,2019,Quincy,6
+2347,2019,Rainier,5
+2348,2019,Ravensdale,7
+2349,2019,Raymond,2
+2350,2019,Reardan,1
+2351,2019,Redmond,342
+2352,2019,Renton,233
+2353,2019,Republic,2
+2354,2019,Richland,71
+2355,2019,Ridgefield,60
+2356,2019,Ritzville,1
+2357,2019,Riverside,1
+2358,2019,Rochester,4
+2359,2019,Rock Island,1
+2360,2019,Ronald,4
+2361,2019,Roseville,1
+2362,2019,Roslyn,1
+2363,2019,Roy,10
+2364,2019,Royal City,1
+2365,2019,Sammamish,291
+2366,2019,Santa Clara,1
+2367,2019,Sarasota,1
+2368,2019,Seabeck,3
+2369,2019,Seatac,30
+2370,2019,Seattle,2002
+2371,2019,Seaview,1
+2372,2019,Sedro Woolley,2
+2373,2019,Sedro-Woolley,11
+2374,2019,Selah,8
+2375,2019,Sequim,57
+2376,2019,Shaw Island,1
+2377,2019,Shelton,48
+2378,2019,Shoreline,141
+2379,2019,Silverdale,18
+2380,2019,Smiths Station,1
+2381,2019,Snohomish,123
+2382,2019,Snoqualmie,48
+2383,2019,Snowden,1
+2384,2019,Soap Lake,2
+2385,2019,South Hill,31
+2386,2019,Southlake,1
+2387,2019,Spanaway,33
+2388,2019,Spangle,2
+2389,2019,Spokane,141
+2390,2019,Spokane Valley,51
+2391,2019,Springdale,2
+2392,2019,Stanwood,23
+2393,2019,Steilacoom,10
+2394,2019,Stevenson,5
+2395,2019,Sultan,15
+2396,2019,Sumas,1
+2397,2019,Sumner,6
+2398,2019,Sunnyside,2
+2399,2019,Suquamish,7
+2400,2019,Surfside,4
+2401,2019,Tacoma,258
+2402,2019,Tahuya,2
+2403,2019,Tenino,8
+2404,2019,Thorp,1
+2405,2019,Tieton,2
+2406,2019,Tokeland,1
+2407,2019,Toledo,6
+2408,2019,Toppenish,1
+2409,2019,Touchet,1
+2410,2019,Trout Lake,3
+2411,2019,Tukwila,21
+2412,2019,Tumwater,51
+2413,2019,Twisp,2
+2414,2019,Underwood,1
+2415,2019,Union,3
+2416,2019,Union Gap,4
+2417,2019,University Place,40
+2418,2019,Valley,1
+2419,2019,Valleyford,4
+2420,2019,Vancouver,402
+2421,2019,Vashon,36
+2422,2019,Vaughn,2
+2423,2019,Veradale,3
+2424,2019,Virginia Beach,1
+2425,2019,Walla Walla,21
+2426,2019,Walnut Creek,1
+2427,2019,Wapato,3
+2428,2019,Warden,1
+2429,2019,Washougal,37
+2430,2019,Waterville,1
+2431,2019,Wenatchee,26
+2432,2019,West Richland,26
+2433,2019,Westport,1
+2434,2019,White Salmon,9
+2435,2019,Wilkeson,1
+2436,2019,Winlock,6
+2437,2019,Winthrop,5
+2438,2019,Woodinville,158
+2439,2019,Woodland,16
+2440,2019,Woodway,9
+2441,2019,Yacolt,2
+2442,2019,Yakima,43
+2443,2019,Yarrow Point,10
+2444,2019,Yelm,21
+2445,2019,Zillah,2
+2446,2020,Aberdeen,15
+2447,2020,Airway Heights,4
+2448,2020,Alexandria,1
+2449,2020,Algona,2
+2450,2020,Allyn,5
+2451,2020,Anacortes,47
+2452,2020,Anderson Island,5
+2453,2020,Apache Junction,1
+2454,2020,Ariel,2
+2455,2020,Arlington,54
+2456,2020,Ashford,1
+2457,2020,Asotin,2
+2458,2020,Auburn,137
+2459,2020,Bainbridge Island,124
+2460,2020,Baring,1
+2461,2020,Battle Ground,36
+2462,2020,Beaux Arts,1
+2463,2020,Belfair,14
+2464,2020,Bellevue,540
+2465,2020,Bellingham,238
+2466,2020,Benton City,7
+2467,2020,Bingen,2
+2468,2020,Black Diamond,22
+2469,2020,Blaine,32
+2470,2020,Boca Raton,1
+2471,2020,Bonney Lake,74
+2472,2020,Bothell,324
+2473,2020,Bow,5
+2474,2020,Bremerton,100
+2475,2020,Bridgeport Bar,1
+2476,2020,Brier,18
+2477,2020,Brinnon,2
+2478,2020,Brush Prairie,21
+2479,2020,Buckley,21
+2480,2020,Burbank,1
+2481,2020,Burien,71
+2482,2020,Burlington,11
+2483,2020,Camano Island,42
+2484,2020,Camarillo,1
+2485,2020,Camas,98
+2486,2020,Carbonado,2
+2487,2020,Carnation,22
+2488,2020,Carson,4
+2489,2020,Cashmere,5
+2490,2020,Castle Rock,9
+2491,2020,Cathlamet,6
+2492,2020,Centralia,11
+2493,2020,Chattaroy,1
+2494,2020,Chehalis,16
+2495,2020,Chelan,14
+2496,2020,Cheney,12
+2497,2020,Chesapeake,1
+2498,2020,Chimacum,1
+2499,2020,Chula Vista,1
+2500,2020,Clallam Bay,2
+2501,2020,Clarkston,3
+2502,2020,Cle Elum,16
+2503,2020,Clinton,22
+2504,2020,Clyde Hill,23
+2505,2020,Colbert,13
+2506,2020,Colfax,1
+2507,2020,College Place,6
+2508,2020,Colville,3
+2509,2020,Concrete,3
+2510,2020,Connell,5
+2511,2020,Copalis Beach,1
+2512,2020,Copalis Crossing,1
+2513,2020,Corpus Christi,1
+2514,2020,Cosmopolis,2
+2515,2020,Coulee City,1
+2516,2020,Coulee Dam,1
+2517,2020,Coupeville,19
+2518,2020,Covington,46
+2519,2020,Dallesport,1
+2520,2020,Darrington,2
+2521,2020,Davenport,1
+2522,2020,Deer Meadows,1
+2523,2020,Deer Park,9
+2524,2020,Des Moines,37
+2525,2020,Dupont,11
+2526,2020,Duvall,43
+2527,2020,East Wenatchee,19
+2528,2020,Easton,3
+2529,2020,Eastsound,17
+2530,2020,Eatonville,12
+2531,2020,Edgewood,19
+2532,2020,Edmonds,129
+2533,2020,Edwall,1
+2534,2020,El Paso,1
+2535,2020,Ellensburg,28
+2536,2020,Elma,5
+2537,2020,Endicott,1
+2538,2020,Entiat,5
+2539,2020,Enumclaw,33
+2540,2020,Ephrata,3
+2541,2020,Ethel,1
+2542,2020,Everett,203
+2543,2020,Everson,11
+2544,2020,Fairchild Air Force Base,1
+2545,2020,Fall City,20
+2546,2020,Falls Church,1
+2547,2020,Federal Way,106
+2548,2020,Ferndale,26
+2549,2020,Fife,9
+2550,2020,Fircrest,10
+2551,2020,Forks,2
+2552,2020,Fort Benning,1
+2553,2020,Fort Bragg,1
+2554,2020,Fox Island,14
+2555,2020,Freeland,8
+2556,2020,Friday Harbor,36
+2557,2020,Gardiner,1
+2558,2020,Garfield,1
+2559,2020,Gig Harbor,139
+2560,2020,Glacier,1
+2561,2020,Glenoma,1
+2562,2020,Gold Bar,5
+2563,2020,Goldendale,2
+2564,2020,Graham,28
+2565,2020,Grandview,5
+2566,2020,Granite Falls,9
+2567,2020,Grapeview,1
+2568,2020,Grays River,2
+2569,2020,Greenacres,6
+2570,2020,Greenbank,11
+2571,2020,Hansville,5
+2572,2020,Hatton,1
+2573,2020,Henderson,1
+2574,2020,Hoodsport,4
+2575,2020,Hoquiam,6
+2576,2020,Houston,1
+2577,2020,Hunters,1
+2578,2020,Hunts Point,6
+2579,2020,Husum,2
+2580,2020,Index,1
+2581,2020,Indianola,6
+2582,2020,Issaquah,178
+2583,2020,Joint Base Lewis Mcchord,8
+2584,2020,Joint Base Mdl,1
+2585,2020,Kalama,16
+2586,2020,Kelso,17
+2587,2020,Kenmore,75
+2588,2020,Kennewick,82
+2589,2020,Kent,181
+2590,2020,Kettle Falls,2
+2591,2020,Kingston,23
+2592,2020,Kirkland,361
+2593,2020,La Center,15
+2594,2020,La Conner,8
+2595,2020,Lacey,59
+2596,2020,Lake Forest,1
+2597,2020,Lake Forest Park,45
+2598,2020,Lake Stevens,99
+2599,2020,Lake Tapps,29
+2600,2020,Lakebay,4
+2601,2020,Lakewood,58
+2602,2020,Langley,30
+2603,2020,Las Vegas,2
+2604,2020,Latah,1
+2605,2020,Leavenworth,21
+2606,2020,Liberty Lake,9
+2607,2020,Lilliwaup,2
+2608,2020,Long Beach,2
+2609,2020,Longbranch,1
+2610,2020,Longview,27
+2611,2020,Loon Lake,1
+2612,2020,Lopez Island,5
+2613,2020,Los Angeles,2
+2614,2020,Lummi Island,6
+2615,2020,Lyle,1
+2616,2020,Lynden,11
+2617,2020,Lynnwood,157
+2618,2020,Mabton,1
+2619,2020,Malaga,1
+2620,2020,Manson,8
+2621,2020,Maple Valley,77
+2622,2020,Marietta,1
+2623,2020,Marysville,94
+2624,2020,Mattawa,3
+2625,2020,Mazama,2
+2626,2020,Mccleary,2
+2627,2020,Mead,4
+2628,2020,Medical Lake,6
+2629,2020,Medina,22
+2630,2020,Mercer Island,166
+2631,2020,Mesa,1
+2632,2020,Mill Creek,52
+2633,2020,Milton,8
+2634,2020,Mineral,2
+2635,2020,Moclips,2
+2636,2020,Monroe,64
+2637,2020,Montesano,3
+2638,2020,Moses Lake,26
+2639,2020,Mossyrock,3
+2640,2020,Mount Vernon,54
+2641,2020,Mountlake Terrace,35
+2642,2020,Moxee,1
+2643,2020,Mukilteo,33
+2644,2020,Mystic,1
+2645,2020,Naches,2
+2646,2020,Nahcotta,1
+2647,2020,Napavine,1
+2648,2020,Naselle,4
+2649,2020,Newcastle,53
+2650,2020,Newman Lake,2
+2651,2020,Newport,6
+2652,2020,Nine Mile Falls,6
+2653,2020,Nooksack,1
+2654,2020,Nordland,4
+2655,2020,Normandy Park,19
+2656,2020,North Bend,50
+2657,2020,North Bonneville,2
+2658,2020,Oak Harbor,30
+2659,2020,Oakville,3
+2660,2020,Ocean Park,1
+2661,2020,Ocean Shores,6
+2662,2020,Oceanside,1
+2663,2020,Olalla,7
+2664,2020,Olga,3
+2665,2020,Olympia,333
+2666,2020,Onalaska,2
+2667,2020,Orcas,1
+2668,2020,Orcas Is,1
+2669,2020,Orondo,4
+2670,2020,Orting,20
+2671,2020,Othello,7
+2672,2020,Otis Orchards,2
+2673,2020,Outlook,2
+2674,2020,Oysterville,1
+2675,2020,Pacific,8
+2676,2020,Pacific Beach,1
+2677,2020,Packwood,4
+2678,2020,Palouse,1
+2679,2020,Parker,1
+2680,2020,Parkland,5
+2681,2020,Pasco,57
+2682,2020,Pe Ell,1
+2683,2020,Peshastin,1
+2684,2020,Pittsburgh,1
+2685,2020,Pocatello,1
+2686,2020,Point Roberts,6
+2687,2020,Port Angeles,39
+2688,2020,Port Hadlock,4
+2689,2020,Port Ludlow,15
+2690,2020,Port Orchard,78
+2691,2020,Port Townsend,55
+2692,2020,Portsmouth,1
+2693,2020,Poulsbo,45
+2694,2020,Preston,1
+2695,2020,Prosser,10
+2696,2020,Pullman,15
+2697,2020,Puyallup,97
+2698,2020,Quilcene,6
+2699,2020,Quinault,1
+2700,2020,Quincy,9
+2701,2020,Rainier,7
+2702,2020,Randle,2
+2703,2020,Rathdrum,1
+2704,2020,Ravensdale,12
+2705,2020,Raymond,6
+2706,2020,Redmond,361
+2707,2020,Renton,279
+2708,2020,Republic,3
+2709,2020,Reston,1
+2710,2020,Richland,87
+2711,2020,Ridgefield,75
+2712,2020,Ritzville,1
+2713,2020,Rochester,5
+2714,2020,Rockport,1
+2715,2020,Ronald,2
+2716,2020,Rosalia,1
+2717,2020,Roseville,1
+2718,2020,Roslyn,2
+2719,2020,Roy,7
+2720,2020,Ruston,4
+2721,2020,Saint Louis,1
+2722,2020,Salem,1
+2723,2020,Sammamish,308
+2724,2020,San Diego,1
+2725,2020,San Francisco,1
+2726,2020,Seabeck,7
+2727,2020,Seatac,35
+2728,2020,Seattle,2146
+2729,2020,Seaview,2
+2730,2020,Sedro Woolley,5
+2731,2020,Sedro-Woolley,21
+2732,2020,Sekiu,1
+2733,2020,Selah,4
+2734,2020,Sequim,35
+2735,2020,Shaw Island,1
+2736,2020,Shelton,29
+2737,2020,Shoreline,136
+2738,2020,Silver Creek,1
+2739,2020,Silverdale,33
+2740,2020,Silverlake,4
+2741,2020,Skamokawa,2
+2742,2020,Skykomish,1
+2743,2020,Snohomish,152
+2744,2020,Snoqualmie,54
+2745,2020,Snoqualmie Pass,2
+2746,2020,Snowden,1
+2747,2020,South Cle Elum,1
+2748,2020,South Hill,44
+2749,2020,South Prairie,1
+2750,2020,Spanaway,34
+2751,2020,Spangle,1
+2752,2020,Sparks,1
+2753,2020,Spokane,203
+2754,2020,Spokane Valley,41
+2755,2020,Springfield,1
+2756,2020,Stanwood,36
+2757,2020,Steilacoom,11
+2758,2020,Stevenson,1
+2759,2020,Sultan,16
+2760,2020,Sumas,1
+2761,2020,Sumner,8
+2762,2020,Sunnyside,7
+2763,2020,Suquamish,5
+2764,2020,Tacoma,276
+2765,2020,Taholah,1
+2766,2020,Tahuya,4
+2767,2020,Tenino,5
+2768,2020,Tieton,1
+2769,2020,Toledo,6
+2770,2020,Tonasket,1
+2771,2020,Toppenish,2
+2772,2020,Touchet,1
+2773,2020,Tukwila,37
+2774,2020,Tulalip,1
+2775,2020,Tumwater,40
+2776,2020,Twisp,7
+2777,2020,Underwood,2
+2778,2020,Union Gap,1
+2779,2020,University Place,57
+2780,2020,Valleyford,2
+2781,2020,Vancouver,474
+2782,2020,Vashon,53
+2783,2020,Vaughn,3
+2784,2020,Veradale,3
+2785,2020,Waitsburg,1
+2786,2020,Walla Walla,33
+2787,2020,Wapato,2
+2788,2020,Warden,1
+2789,2020,Washougal,36
+2790,2020,Waynesville,1
+2791,2020,Wenatchee,35
+2792,2020,West Richland,15
+2793,2020,Westfield,1
+2794,2020,Westport,2
+2795,2020,White Salmon,18
+2796,2020,Winlock,7
+2797,2020,Winthrop,8
+2798,2020,Wishram,1
+2799,2020,Woodinville,150
+2800,2020,Woodland,18
+2801,2020,Woodway,8
+2802,2020,Yacolt,2
+2803,2020,Yakima,55
+2804,2020,Yarrow Point,9
+2805,2020,Yelm,17
+2806,2020,Zillah,2
+2807,2021,Aberdeen,17
+2808,2021,Aberdeen Proving Ground,1
+2809,2021,Acme,1
+2810,2021,Airway Heights,3
+2811,2021,Alameda,1
+2812,2021,Algona,2
+2813,2021,Allyn,13
+2814,2021,Anacortes,97
+2815,2021,Anderson Island,5
+2816,2021,Arlington,79
+2817,2021,Ashford,1
+2818,2021,Auburn,232
+2819,2021,Bainbridge Island,215
+2820,2021,Baring,1
+2821,2021,Battle Ground,65
+2822,2021,Beaux Arts,8
+2823,2021,Belfair,15
+2824,2021,Bellevue,872
+2825,2021,Bellingham,348
+2826,2021,Benton City,5
+2827,2021,Berkeley,1
+2828,2021,Bingen,2
+2829,2021,Black Diamond,37
+2830,2021,Blaine,47
+2831,2021,Bonney Lake,131
+2832,2021,Bothell,647
+2833,2021,Bow,20
+2834,2021,Bremerton,150
+2835,2021,Brewster,3
+2836,2021,Brier,24
+2837,2021,Brinnon,1
+2838,2021,Brush Prairie,38
+2839,2021,Buckley,31
+2840,2021,Buena,1
+2841,2021,Buffalo Grove,1
+2842,2021,Bunnlevel,1
+2843,2021,Burbank,5
+2844,2021,Burien,101
+2845,2021,Burlington,23
+2846,2021,Bz Corner,2
+2847,2021,California City,1
+2848,2021,Camano Island,61
+2849,2021,Camas,198
+2850,2021,Carbonado,1
+2851,2021,Carlton,1
+2852,2021,Carnation,49
+2853,2021,Carson,3
+2854,2021,Cashmere,6
+2855,2021,Castle Rock,15
+2856,2021,Cathedral City,1
+2857,2021,Cathlamet,3
+2858,2021,Cave Creek,1
+2859,2021,Centralia,26
+2860,2021,Chantilly,1
+2861,2021,Chattaroy,5
+2862,2021,Chehalis,32
+2863,2021,Chelan,17
+2864,2021,Cheney,21
+2865,2021,Chewelah,5
+2866,2021,Chimacum,4
+2867,2021,Chula Vista,3
+2868,2021,Clarkston,7
+2869,2021,Clayton,1
+2870,2021,Cle Elum,27
+2871,2021,Clinton,44
+2872,2021,Clyde Hill,21
+2873,2021,Colbert,15
+2874,2021,Colfax,3
+2875,2021,College Place,9
+2876,2021,Colorado Springs,2
+2877,2021,Colville,5
+2878,2021,Concrete,2
+2879,2021,Connell,1
+2880,2021,Cosmopolis,3
+2881,2021,Coulee City,1
+2882,2021,Coupeville,24
+2883,2021,Covington,87
+2884,2021,Cowiche,1
+2885,2021,Curlew,1
+2886,2021,Curtis,1
+2887,2021,Custer,5
+2888,2021,Dallesport,2
+2889,2021,Davenport,2
+2890,2021,Dayton,1
+2891,2021,Deer Park,9
+2892,2021,Deming,2
+2893,2021,Des Moines,80
+2894,2021,Dupont,12
+2895,2021,Duvall,73
+2896,2021,Eagle River,1
+2897,2021,East Wenatchee,30
+2898,2021,Easton,3
+2899,2021,Eastsound,25
+2900,2021,Eatonville,18
+2901,2021,Edgewood,37
+2902,2021,Edmonds,223
+2903,2021,Elbe,1
+2904,2021,Elk,2
+2905,2021,Ellensburg,42
+2906,2021,Elma,10
+2907,2021,Eltopia,2
+2908,2021,Entiat,2
+2909,2021,Enumclaw,42
+2910,2021,Ephrata,14
+2911,2021,Ethel,1
+2912,2021,Everett,287
+2913,2021,Everson,9
+2914,2021,Ewa Beach,1
+2915,2021,Fairchild Air Force Base,1
+2916,2021,Fall City,32
+2917,2021,Fallbrook,1
+2918,2021,Federal Way,201
+2919,2021,Ferndale,57
+2920,2021,Fife,20
+2921,2021,Fircrest,28
+2922,2021,Forks,2
+2923,2021,Fort Bragg,1
+2924,2021,Fort Irwin,1
+2925,2021,Fort Knox,1
+2926,2021,Fox Island,23
+2927,2021,Freeland,27
+2928,2021,Fresno,1
+2929,2021,Friday Harbor,40
+2930,2021,Gales Ferry,1
+2931,2021,Garfield,1
+2932,2021,Gig Harbor,241
+2933,2021,Glacier,2
+2934,2021,Glenoma,2
+2935,2021,Gold Bar,9
+2936,2021,Goldendale,2
+2937,2021,Graham,36
+2938,2021,Grandview,7
+2939,2021,Granger,1
+2940,2021,Granite Falls,14
+2941,2021,Grapeview,8
+2942,2021,Grays River,1
+2943,2021,Great Lakes,1
+2944,2021,Greenacres,17
+2945,2021,Greenbank,7
+2946,2021,Grovetown,1
+2947,2021,Hansville,11
+2948,2021,Henrico,1
+2949,2021,Herndon,1
+2950,2021,Highland Park,1
+2951,2021,Honolulu,1
+2952,2021,Hoodsport,4
+2953,2021,Hoquiam,5
+2954,2021,Hunts Point,4
+2955,2021,Husum,3
+2956,2021,Ilwaco,1
+2957,2021,Index,3
+2958,2021,Indianola,6
+2959,2021,Ione,1
+2960,2021,Issaquah,325
+2961,2021,Joint Base Lewis Mcchord,13
+2962,2021,Kalama,15
+2963,2021,Kansas City,1
+2964,2021,Kapowsin,1
+2965,2021,Kelso,28
+2966,2021,Kenmore,114
+2967,2021,Kennewick,137
+2968,2021,Kent,280
+2969,2021,Kettle Falls,3
+2970,2021,Keyport,1
+2971,2021,Kingston,35
+2972,2021,Kirkland,604
+2973,2021,Kittitas,1
+2974,2021,La Center,13
+2975,2021,La Conner,14
+2976,2021,La Mesa,1
+2977,2021,Lacey,117
+2978,2021,Lafayette,1
+2979,2021,Lake Forest Park,92
+2980,2021,Lake Stevens,186
+2981,2021,Lake Tapps,42
+2982,2021,Lakebay,10
+2983,2021,Lakewood,75
+2984,2021,Lancaster,1
+2985,2021,Langley,36
+2986,2021,Leavenworth,33
+2987,2021,Liberty Lake,26
+2988,2021,Lilliwaup,2
+2989,2021,Lincoln,1
+2990,2021,Long Beach,5
+2991,2021,Longbranch,3
+2992,2021,Longview,44
+2993,2021,Loon Lake,1
+2994,2021,Lopez Island,8
+2995,2021,Lummi Island,4
+2996,2021,Lyle,2
+2997,2021,Lynden,33
+2998,2021,Lynnwood,338
+2999,2021,Mabton,2
+3000,2021,Malaga,4
+3001,2021,Manassas,1
+3002,2021,Manson,10
+3003,2021,Maple Falls,3
+3004,2021,Maple Valley,154
+3005,2021,Marblemount,1
+3006,2021,Marlin,1
+3007,2021,Maryhill,1
+3008,2021,Marysville,164
+3009,2021,Mattawa,3
+3010,2021,Mazama,2
+3011,2021,Mccleary,5
+3012,2021,Mead,9
+3013,2021,Medical Lake,5
+3014,2021,Medina,34
+3015,2021,Menlo,2
+3016,2021,Mercer Island,267
+3017,2021,Mesa,1
+3018,2021,Methow,1
+3019,2021,Mill Creek,68
+3020,2021,Milton,12
+3021,2021,Mineral,1
+3022,2021,Moclips,1
+3023,2021,Monroe,91
+3024,2021,Montesano,14
+3025,2021,Moreno Valley,1
+3026,2021,Morton,2
+3027,2021,Moses Lake,44
+3028,2021,Mossyrock,3
+3029,2021,Mount Vernon,78
+3030,2021,Mountlake Terrace,48
+3031,2021,Moxee,2
+3032,2021,Moyock,1
+3033,2021,Mukilteo,96
+3034,2021,Naches,3
+3035,2021,Naselle,2
+3036,2021,Neah Bay,1
+3037,2021,Newcastle,95
+3038,2021,Newman Lake,4
+3039,2021,Newport,8
+3040,2021,Nine Mile Falls,12
+3041,2021,Nooksack,1
+3042,2021,Nordland,3
+3043,2021,Normandy Park,33
+3044,2021,North Bend,98
+3045,2021,North Bonneville,1
+3046,2021,Oak Harbor,62
+3047,2021,Oakesdale,1
+3048,2021,Oakville,3
+3049,2021,Ocean Park,6
+3050,2021,Ocean Shores,21
+3051,2021,Ocean Springs,1
+3052,2021,Oceanside,1
+3053,2021,Olalla,16
+3054,2021,Olga,3
+3055,2021,Olympia,451
+3056,2021,Omak,3
+3057,2021,Onalaska,6
+3058,2021,Orcas,1
+3059,2021,Orondo,7
+3060,2021,Oroville,3
+3061,2021,Orting,17
+3062,2021,Othello,3
+3063,2021,Otis Orchards,4
+3064,2021,Outlook,4
+3065,2021,Owings,1
+3066,2021,Oysterville,1
+3067,2021,Pacific,7
+3068,2021,Pacific Beach,2
+3069,2021,Pacific Palisades,1
+3070,2021,Packwood,1
+3071,2021,Palo Alto,1
+3072,2021,Palouse,2
+3073,2021,Parker,1
+3074,2021,Parkland,11
+3075,2021,Pasadena,1
+3076,2021,Pasco,91
+3077,2021,Peshastin,5
+3078,2021,Philadelphia,1
+3079,2021,Phoenix,1
+3080,2021,Point Roberts,8
+3081,2021,Pomeroy,1
+3082,2021,Port Angeles,52
+3083,2021,Port Hadlock,4
+3084,2021,Port Ludlow,14
+3085,2021,Port Orchard,122
+3086,2021,Port Townsend,57
+3087,2021,Portsmouth,1
+3088,2021,Post Falls,1
+3089,2021,Potomac,1
+3090,2021,Poulsbo,103
+3091,2021,Pouslbo,1
+3092,2021,Prattville,1
+3093,2021,Preston,5
+3094,2021,Prosser,13
+3095,2021,Pullman,34
+3096,2021,Puyallup,153
+3097,2021,Quilcene,10
+3098,2021,Quincy,12
+3099,2021,Rainier,8
+3100,2021,Randle,1
+3101,2021,Ravensdale,12
+3102,2021,Raymond,4
+3103,2021,Redmond,650
+3104,2021,Renton,547
+3105,2021,Richland,105
+3106,2021,Ridgefield,120
+3107,2021,Ritzville,4
+3108,2021,Rochester,11
+3109,2021,Rockford,1
+3110,2021,Ronald,7
+3111,2021,Rosalia,1
+3112,2021,Rosburg,1
+3113,2021,Roslyn,6
+3114,2021,Roy,17
+3115,2021,Royal City,3
+3116,2021,Ruston,5
+3117,2021,Salkum,1
+3118,2021,Sammamish,529
+3119,2021,San Diego,3
+3120,2021,Santa Clara,1
+3121,2021,Seabeck,11
+3122,2021,Seatac,67
+3123,2021,Seattle,3597
+3124,2021,Seaview,2
+3125,2021,Sedro Woolley,12
+3126,2021,Sedro-Woolley,25
+3127,2021,Sekiu,1
+3128,2021,Selah,19
+3129,2021,Sequim,68
+3130,2021,Shaw Island,2
+3131,2021,Shelton,48
+3132,2021,Shoreline,228
+3133,2021,Silver Creek,1
+3134,2021,Silverdale,45
+3135,2021,Silverlake,3
+3136,2021,Skokie,1
+3137,2021,Snohomish,232
+3138,2021,Snoqualmie,104
+3139,2021,Snoqualmie Pass,7
+3140,2021,Snowden,4
+3141,2021,Soap Lake,3
+3142,2021,South Cle Elum,1
+3143,2021,South Hill,73
+3144,2021,South Prairie,1
+3145,2021,Spanaway,65
+3146,2021,Spangle,1
+3147,2021,Spokane,358
+3148,2021,Spokane Valley,75
+3149,2021,Springfield,1
+3150,2021,Stafford,2
+3151,2021,Stanwood,55
+3152,2021,Steilacoom,21
+3153,2021,Stevenson,12
+3154,2021,Sultan,27
+3155,2021,Sumas,2
+3156,2021,Sumner,13
+3157,2021,Sunnyside,7
+3158,2021,Suquamish,5
+3159,2021,Surfside,2
+3160,2021,Tacoma,490
+3161,2021,Tahuya,4
+3162,2021,Tekoa,1
+3163,2021,Temecula,1
+3164,2021,Tenino,10
+3165,2021,Thorp,1
+3166,2021,Tieton,4
+3167,2021,Toledo,2
+3168,2021,Tonasket,3
+3169,2021,Touchet,1
+3170,2021,Trout Lake,3
+3171,2021,Tukwila,41
+3172,2021,Tumtum,1
+3173,2021,Tumwater,66
+3174,2021,Twisp,8
+3175,2021,Underwood,6
+3176,2021,Union,4
+3177,2021,Union Gap,3
+3178,2021,University Place,86
+3179,2021,Upper Marlboro,1
+3180,2021,Vacaville,1
+3181,2021,Vader,2
+3182,2021,Vancouver,793
+3183,2021,Vashon,61
+3184,2021,Vaughn,2
+3185,2021,Ventura,1
+3186,2021,Veradale,5
+3187,2021,Walla Walla,53
+3188,2021,Wapato,5
+3189,2021,Washougal,78
+3190,2021,Waterford,1
+3191,2021,Watertown,1
+3192,2021,Wenatchee,52
+3193,2021,West Richland,27
+3194,2021,Westport,3
+3195,2021,White Salmon,20
+3196,2021,Winlock,10
+3197,2021,Winter Park,1
+3198,2021,Winthrop,17
+3199,2021,Woodinville,269
+3200,2021,Woodland,32
+3201,2021,Woodway,13
+3202,2021,Wrch,1
+3203,2021,Yacolt,16
+3204,2021,Yakima,123
+3205,2021,Yarrow Point,10
+3206,2021,Yelm,42
+3207,2021,Yorktown,1
+3208,2021,Zillah,5
+3209,2022,Aberdeen,20
+3210,2022,Acme,1
+3211,2022,Alexandria,1
+3212,2022,Algona,3
+3213,2022,Allyn,13
+3214,2022,Almira,1
+3215,2022,Amboy,4
+3216,2022,Anacortes,101
+3217,2022,Anderson Island,5
+3218,2022,Annapolis,1
+3219,2022,Ariel,4
+3220,2022,Arlington,115
+3221,2022,Asotin,3
+3222,2022,Auburn,295
+3223,2022,Austin,1
+3224,2022,Bainbridge Island,273
+3225,2022,Ballwin,1
+3226,2022,Baring,2
+3227,2022,Battle Ground,79
+3228,2022,Beaux Arts,11
+3229,2022,Beaver,1
+3230,2022,Beavercreek,1
+3231,2022,Beaverton,1
+3232,2022,Belfair,28
+3233,2022,Bellevue,1451
+3234,2022,Bellingham,454
+3235,2022,Benicia,1
+3236,2022,Benton City,9
+3237,2022,Bingen,2
+3238,2022,Black Diamond,63
+3239,2022,Blaine,68
+3240,2022,Bluffton,1
+3241,2022,Boise,1
+3242,2022,Bonney Lake,182
+3243,2022,Boston,2
+3244,2022,Bothell,1023
+3245,2022,Bow,13
+3246,2022,Bremerton,239
+3247,2022,Brewster,1
+3248,2022,Bridgeport,1
+3249,2022,Brier,41
+3250,2022,Brinnon,10
+3251,2022,Brush Prairie,51
+3252,2022,Buckley,51
+3253,2022,Bucoda,1
+3254,2022,Burbank,2
+3255,2022,Burien,156
+3256,2022,Burlington,25
+3257,2022,Bz Corner,1
+3258,2022,Camano Island,94
+3259,2022,Camas,276
+3260,2022,Carlton,1
+3261,2022,Carnation,68
+3262,2022,Carson,3
+3263,2022,Cashmere,13
+3264,2022,Castle Rock,18
+3265,2022,Cathlamet,11
+3266,2022,Centralia,26
+3267,2022,Charlottesville,1
+3268,2022,Chattaroy,13
+3269,2022,Chehalis,33
+3270,2022,Chelan,30
+3271,2022,Chelan Falls,1
+3272,2022,Cheney,19
+3273,2022,Chesapeake,1
+3274,2022,Chewelah,2
+3275,2022,Chicago,1
+3276,2022,Chimacum,5
+3277,2022,Cincinnati,1
+3278,2022,Cinebar,3
+3279,2022,Clarkston,11
+3280,2022,Cle Elum,51
+3281,2022,Clinton,38
+3282,2022,Clyde Hill,58
+3283,2022,Colbert,22
+3284,2022,Colfax,4
+3285,2022,College Place,7
+3286,2022,Colorado Springs,3
+3287,2022,Colton,1
+3288,2022,Columbus,1
+3289,2022,Colville,10
+3290,2022,Concrete,7
+3291,2022,Connell,3
+3292,2022,Converse,1
+3293,2022,Copalis Beach,2
+3294,2022,Coronado,1
+3295,2022,Cosmopolis,3
+3296,2022,Cougar,1
+3297,2022,Coulee City,5
+3298,2022,Coulee Dam,1
+3299,2022,Coupeville,27
+3300,2022,Covington,105
+3301,2022,Culver City,1
+3302,2022,Cupertino,1
+3303,2022,Curlew,2
+3304,2022,Cusick,2
+3305,2022,Custer,5
+3306,2022,Dallas,1
+3307,2022,Dallesport,1
+3308,2022,Darrington,3
+3309,2022,Davenport,3
+3310,2022,Dayton,3
+3311,2022,Deer Park,11
+3312,2022,Deming,2
+3313,2022,Des Moines,80
+3314,2022,Dupont,30
+3315,2022,Duvall,109
+3316,2022,East Wenatchee,37
+3317,2022,Easton,4
+3318,2022,Eastsound,33
+3319,2022,Eatonville,24
+3320,2022,Edgewood,52
+3321,2022,Edmonds,330
+3322,2022,Elk,2
+3323,2022,Ellensburg,64
+3324,2022,Ellicott City,1
+3325,2022,Elma,9
+3326,2022,Encinitas,1
+3327,2022,Englewood,1
+3328,2022,Entiat,6
+3329,2022,Enumclaw,56
+3330,2022,Ephrata,19
+3331,2022,Epping,1
+3332,2022,Ethel,1
+3333,2022,Evans,2
+3334,2022,Everett,413
+3335,2022,Everson,12
+3336,2022,Fairchild Air Force Base,2
+3337,2022,Fall City,46
+3338,2022,Federal Way,218
+3339,2022,Ferndale,60
+3340,2022,Fife,18
+3341,2022,Fircrest,23
+3342,2022,Folsom,1
+3343,2022,Forks,3
+3344,2022,Fox Island,34
+3345,2022,Freeland,23
+3346,2022,Fremont,1
+3347,2022,Friday Harbor,52
+3348,2022,Germantown,1
+3349,2022,Gig Harbor,315
+3350,2022,Glacier,3
+3351,2022,Gold Bar,16
+3352,2022,Goldendale,6
+3353,2022,Graham,62
+3354,2022,Grand Coulee,1
+3355,2022,Grandview,12
+3356,2022,Granger,1
+3357,2022,Granite Falls,29
+3358,2022,Grapeview,12
+3359,2022,Greenacres,29
+3360,2022,Greenbank,10
+3361,2022,Hansville,16
+3362,2022,Harrington,2
+3363,2022,Harrison,1
+3364,2022,Hartline,1
+3365,2022,Honolulu,1
+3366,2022,Hoodsport,11
+3367,2022,Hoquiam,4
+3368,2022,Hunts Point,9
+3369,2022,Husum,2
+3370,2022,Ilwaco,2
+3371,2022,Indianola,7
+3372,2022,Irvine,1
+3373,2022,Issaquah,475
+3374,2022,Jacksonville,1
+3375,2022,Jbsa Ft Sam Houston,1
+3376,2022,Joint Base Lewis Mcchord,11
+3377,2022,Junction City,1
+3378,2022,Kalama,21
+3379,2022,Kekaha,1
+3380,2022,Kelso,21
+3381,2022,Kenmore,170
+3382,2022,Kennewick,187
+3383,2022,Kent,464
+3384,2022,Kettle Falls,4
+3385,2022,Kihei,1
+3386,2022,Kingston,28
+3387,2022,Kirkland,888
+3388,2022,Kittitas,1
+3389,2022,Knoxville,1
+3390,2022,La Center,33
+3391,2022,La Conner,17
+3392,2022,Lacey,163
+3393,2022,Lake Forest Park,98
+3394,2022,Lake Stevens,244
+3395,2022,Lake Tapps,62
+3396,2022,Lakebay,17
+3397,2022,Lakewood,113
+3398,2022,Langley,36
+3399,2022,Las Vegas,1
+3400,2022,Leavenworth,44
+3401,2022,Lebam,1
+3402,2022,Liberty Lake,57
+3403,2022,Lilliwaup,2
+3404,2022,Lind,1
+3405,2022,Lisle,3
+3406,2022,Long Beach,4
+3407,2022,Longbranch,3
+3408,2022,Longview,56
+3409,2022,Loon Lake,1
+3410,2022,Lopez Island,19
+3411,2022,Los Angeles,1
+3412,2022,Lummi Island,5
+3413,2022,Lyle,5
+3414,2022,Lynden,46
+3415,2022,Lynnwood,432
+3416,2022,Mabton,2
+3417,2022,Malaga,4
+3418,2022,Manassas,1
+3419,2022,Mansfield,1
+3420,2022,Manson,18
+3421,2022,Maple Falls,6
+3422,2022,Maple Valley,255
+3423,2022,Marlin,1
+3424,2022,Marysville,236
+3425,2022,Mattawa,8
+3426,2022,Mazama,4
+3427,2022,Mccleary,8
+3428,2022,Mead,10
+3429,2022,Mechanicsburg,1
+3430,2022,Medical Lake,10
+3431,2022,Medina,48
+3432,2022,Memphis,1
+3433,2022,Menifee,1
+3434,2022,Menlo,2
+3435,2022,Mercer Island,383
+3436,2022,Mesa,3
+3437,2022,Middletown,1
+3438,2022,Mill Creek,126
+3439,2022,Mill Valley,1
+3440,2022,Milton,14
+3441,2022,Milwaukee,1
+3442,2022,Monroe,149
+3443,2022,Montesano,7
+3444,2022,Monument,1
+3445,2022,Morrisville,1
+3446,2022,Morton,2
+3447,2022,Moses Lake,55
+3448,2022,Mossyrock,8
+3449,2022,Mount Vernon,115
+3450,2022,Mountain View,1
+3451,2022,Mountlake Terrace,88
+3452,2022,Moxee,5
+3453,2022,Mukilteo,113
+3454,2022,Naches,3
+3455,2022,Nahcotta,3
+3456,2022,Napavine,1
+3457,2022,Naselle,4
+3458,2022,Nashville,1
+3459,2022,Neah Bay,2
+3460,2022,New York,1
+3461,2022,Newcastle,162
+3462,2022,Newman Lake,10
+3463,2022,Newport,5
+3464,2022,Niceville,1
+3465,2022,Nine Mile Falls,25
+3466,2022,Nordland,8
+3467,2022,Normandy Park,41
+3468,2022,North Bend,134
+3469,2022,North Cove,1
+3470,2022,North Dartmouth,1
+3471,2022,Oak Harbor,82
+3472,2022,Oakville,3
+3473,2022,Ocean Park,8
+3474,2022,Ocean Shores,19
+3475,2022,Odessa,3
+3476,2022,Olalla,15
+3477,2022,Olga,3
+3478,2022,Olympia,628
+3479,2022,Omak,4
+3480,2022,Orcas,1
+3481,2022,Orlando,1
+3482,2022,Orondo,11
+3483,2022,Oroville,2
+3484,2022,Orting,18
+3485,2022,Othello,11
+3486,2022,Otis Orchards,7
+3487,2022,Outlook,3
+3488,2022,Pacific,18
+3489,2022,Pacific Beach,1
+3490,2022,Pacific Grove,1
+3491,2022,Packwood,5
+3492,2022,Palisades,1
+3493,2022,Palouse,2
+3494,2022,Parkland,17
+3495,2022,Pasco,132
+3496,2022,Pateros,2
+3497,2022,Peshastin,2
+3498,2022,Pike Road,1
+3499,2022,Point Roberts,8
+3500,2022,Port Angeles,52
+3501,2022,Port Hadlock,8
+3502,2022,Port Ludlow,20
+3503,2022,Port Orchard,173
+3504,2022,Port Townsend,92
+3505,2022,Portland,3
+3506,2022,Poulsbo,139
+3507,2022,Pouslbo,3
+3508,2022,Prattville,1
+3509,2022,Preston,6
+3510,2022,Prosser,13
+3511,2022,Pullman,40
+3512,2022,Puyallup,196
+3513,2022,Quilcene,3
+3514,2022,Quinault,1
+3515,2022,Quincy,23
+3516,2022,Rainier,11
+3517,2022,Ravensdale,16
+3518,2022,Raymond,3
+3519,2022,Reardan,1
+3520,2022,Redmond,1060
+3521,2022,Renton,720
+3522,2022,Rice,2
+3523,2022,Richland,163
+3524,2022,Ridgefield,182
+3525,2022,Rineyville,1
+3526,2022,Rio Rico,1
+3527,2022,Ritzville,4
+3528,2022,Riverside,1
+3529,2022,Rochester,27
+3530,2022,Rock Island,2
+3531,2022,Rockford,1
+3532,2022,Ronald,6
+3533,2022,Roosevelt,1
+3534,2022,Rosalia,6
+3535,2022,Roseville,1
+3536,2022,Roslyn,6
+3537,2022,Roy,22
+3538,2022,Royal City,2
+3539,2022,Ruston,4
+3540,2022,Sacramento,1
+3541,2022,Saginaw,1
+3542,2022,Salem,1
+3543,2022,Salkum,3
+3544,2022,Sammamish,905
+3545,2022,San Antonio,1
+3546,2022,San Carlos,1
+3547,2022,San Diego,1
+3548,2022,San Jose,3
+3549,2022,San Rafael,1
+3550,2022,Seabeck,16
+3551,2022,Seaside,1
+3552,2022,Seatac,271
+3553,2022,Seattle,4640
+3554,2022,Seaview,1
+3555,2022,Sedro Woolley,11
+3556,2022,Sedro-Woolley,24
+3557,2022,Selah,14
+3558,2022,Sequim,97
+3559,2022,Shaw Island,2
+3560,2022,Shelton,72
+3561,2022,Shoreline,318
+3562,2022,Silver Creek,2
+3563,2022,Silverdale,63
+3564,2022,Silverlake,6
+3565,2022,Skamokawa,2
+3566,2022,Skykomish,2
+3567,2022,Snohomish,351
+3568,2022,Snoqualmie,161
+3569,2022,Snoqualmie Pass,5
+3570,2022,Snowden,2
+3571,2022,Soap Lake,7
+3572,2022,South Bend,2
+3573,2022,South Cle Elum,1
+3574,2022,South Hill,77
+3575,2022,Spanaway,52
+3576,2022,Spangle,1
+3577,2022,Spokane,504
+3578,2022,Spokane Valley,117
+3579,2022,St John,1
+3580,2022,Stanwood,88
+3581,2022,Steilacoom,20
+3582,2022,Stevenson,7
+3583,2022,Stratford,1
+3584,2022,Sultan,25
+3585,2022,Sumas,1
+3586,2022,Sumner,63
+3587,2022,Sunnyside,17
+3588,2022,Suquamish,11
+3589,2022,Surfside,4
+3590,2022,Tacoma,570
+3591,2022,Taholah,1
+3592,2022,Tahuya,7
+3593,2022,Tampa,1
+3594,2022,Taylor,1
+3595,2022,Tempe,1
+3596,2022,Tenino,14
+3597,2022,Thorp,2
+3598,2022,Tieton,3
+3599,2022,Tokeland,2
+3600,2022,Toledo,7
+3601,2022,Tonasket,2
+3602,2022,Toppenish,2
+3603,2022,Torrance,1
+3604,2022,Toutle,2
+3605,2022,Travis Afb,1
+3606,2022,Trout Lake,2
+3607,2022,Tukwila,181
+3608,2022,Tumwater,112
+3609,2022,Twisp,8
+3610,2022,Underwood,8
+3611,2022,Union,15
+3612,2022,Union Gap,5
+3613,2022,Uniontown,1
+3614,2022,University Place,114
+3615,2022,Upper Marlboro,1
+3616,2022,Vader,2
+3617,2022,Valley,3
+3618,2022,Valleyford,4
+3619,2022,Vancouver,1063
+3620,2022,Vantage,1
+3621,2022,Vashon,84
+3622,2022,Vaughn,3
+3623,2022,Veradale,11
+3624,2022,Vienna,2
+3625,2022,Virginia Beach,2
+3626,2022,Wahkiacus,1
+3627,2022,Waitsburg,2
+3628,2022,Walla Walla,68
+3629,2022,Wapato,4
+3630,2022,Warden,3
+3631,2022,Warner Robins,1
+3632,2022,Washougal,106
+3633,2022,Wenatchee,65
+3634,2022,West Point,2
+3635,2022,West Richland,40
+3636,2022,Westport,4
+3637,2022,White Salmon,31
+3638,2022,Wilbur,2
+3639,2022,Williamsburg,1
+3640,2022,Windsor,1
+3641,2022,Winlock,13
+3642,2022,Winthrop,19
+3643,2022,Wishram,1
+3644,2022,Woodbine,1
+3645,2022,Woodinville,400
+3646,2022,Woodland,28
+3647,2022,Woodway,14
+3648,2022,Worley,1
+3649,2022,Yacolt,6
+3650,2022,Yakima,149
+3651,2022,Yarrow Point,20
+3652,2022,Yelm,60
+3653,2022,Zillah,8
+3654,2023,Aberdeen,50
+3655,2023,Acme,2
+3656,2023,Addy,2
+3657,2023,Airway Heights,7
+3658,2023,Alameda,2
+3659,2023,Alexandria,3
+3660,2023,Algona,6
+3661,2023,Aliso Viejo,1
+3662,2023,Allyn,24
+3663,2023,Amanda Park,1
+3664,2023,Amboy,13
+3665,2023,Anacortes,211
+3666,2023,Anderson Island,13
+3667,2023,Appleton,1
+3668,2023,Ariel,7
+3669,2023,Arlington,184
+3670,2023,Artondale,1
+3671,2023,Ashford,8
+3672,2023,Asotin,2
+3673,2023,Auburn,648
+3674,2023,Austin,1
+3675,2023,Bainbridge Island,471
+3676,2023,Battle Ground,212
+3677,2023,Bay Point,1
+3678,2023,Beale Afb,1
+3679,2023,Beaux Arts,13
+3680,2023,Beavercreek,1
+3681,2023,Belfair,55
+3682,2023,Bellevue,3124
+3683,2023,Bellingham,856
+3684,2023,Benton City,22
+3685,2023,Bethesda,1
+3686,2023,Black Diamond,143
+3687,2023,Blaine,124
+3688,2023,Boise,1
+3689,2023,Bonney Lake,367
+3690,2023,Bothell,2402
+3691,2023,Bow,28
+3692,2023,Bremerton,452
+3693,2023,Brentwood,1
+3694,2023,Brewster,5
+3695,2023,Bridgeport,3
+3696,2023,Bridgeport Bar,2
+3697,2023,Brier,79
+3698,2023,Brinnon,10
+3699,2023,Brooklyn,1
+3700,2023,Brush Prairie,100
+3701,2023,Buckley,84
+3702,2023,Burbank,3
+3703,2023,Burien,274
+3704,2023,Burke,1
+3705,2023,Burlington,45
+3706,2023,Bz Corner,2
+3707,2023,Camano Island,136
+3708,2023,Camas,570
+3709,2023,Cambridge,1
+3710,2023,Carbonado,3
+3711,2023,Carlton,1
+3712,2023,Carnation,111
+3713,2023,Carson,6
+3714,2023,Carthage,1
+3715,2023,Cashmere,22
+3716,2023,Castle Rock,34
+3717,2023,Cathlamet,9
+3718,2023,Centerville,1
+3719,2023,Centralia,92
+3720,2023,Chattaroy,8
+3721,2023,Chehalis,64
+3722,2023,Chelan,57
+3723,2023,Cheney,52
+3724,2023,Chewelah,8
+3725,2023,Cheyenne,2
+3726,2023,Chimacum,6
+3727,2023,Chinook,2
+3728,2023,Cincinnati,1
+3729,2023,Clarkston,23
+3730,2023,Clayton,2
+3731,2023,Cle Elum,78
+3732,2023,Clearlake,1
+3733,2023,Clinton,64
+3734,2023,Clyde Hill,95
+3735,2023,Colbert,35
+3736,2023,Colfax,9
+3737,2023,College Place,19
+3738,2023,Colorado Springs,5
+3739,2023,Colton,1
+3740,2023,Colville,19
+3741,2023,Conconully,1
+3742,2023,Concrete,3
+3743,2023,Connell,3
+3744,2023,Converse,1
+3745,2023,Copalis Beach,2
+3746,2023,Coral Gables,1
+3747,2023,Coronado,1
+3748,2023,Corpus Christi,1
+3749,2023,Cosmopolis,6
+3750,2023,Coulee City,3
+3751,2023,Coulee Dam,3
+3752,2023,Coupeville,81
+3753,2023,Covington,213
+3754,2023,Cowiche,3
+3755,2023,Creston,1
+3756,2023,Crofton,1
+3757,2023,Cumming,1
+3758,2023,Cupertino,1
+3759,2023,Curlew,3
+3760,2023,Curtis,5
+3761,2023,Cusick,4
+3762,2023,Custer,7
+3763,2023,Dallesport,2
+3764,2023,Darrington,1
+3765,2023,Davenport,5
+3766,2023,Dayton,7
+3767,2023,Deer Meadows,1
+3768,2023,Deer Park,24
+3769,2023,Deming,18
+3770,2023,Des Moines,156
+3771,2023,Dryden,1
+3772,2023,Dublin,2
+3773,2023,Dupont,64
+3774,2023,Duvall,212
+3775,2023,East Wenatchee,96
+3776,2023,Easton,8
+3777,2023,Eastsound,49
+3778,2023,Eatonville,29
+3779,2023,Edgewood,104
+3780,2023,Edmonds,586
+3781,2023,Egg Harbor Township,1
+3782,2023,El Monte,1
+3783,2023,El Paso,2
+3784,2023,Elbe,3
+3785,2023,Electric City,2
+3786,2023,Elk,8
+3787,2023,Ellensburg,97
+3788,2023,Elma,18
+3789,2023,Elmer City,1
+3790,2023,Endicott,1
+3791,2023,Englewood,1
+3792,2023,Enid,1
+3793,2023,Entiat,4
+3794,2023,Enumclaw,101
+3795,2023,Ephrata,26
+3796,2023,Ethel,3
+3797,2023,Evans,2
+3798,2023,Everett,951
+3799,2023,Everson,21
+3800,2023,Fairchild Air Force Base,4
+3801,2023,Fairfield,1
+3802,2023,Fall City,54
+3803,2023,Fallon,1
+3804,2023,Fayetteville,1
+3805,2023,Federal Way,509
+3806,2023,Ferndale,112
+3807,2023,Fife,40
+3808,2023,Fircrest,47
+3809,2023,Ford,1
+3810,2023,Forks,5
+3811,2023,Fort Belvoir,1
+3812,2023,Fort Irwin,2
+3813,2023,Fort Lee,1
+3814,2023,Fort Riley,1
+3815,2023,Fort Washington,1
+3816,2023,Fox Island,59
+3817,2023,Frederick,1
+3818,2023,Freeland,49
+3819,2023,Friday Harbor,81
+3820,2023,Garfield,1
+3821,2023,Geneva,1
+3822,2023,Gifford,1
+3823,2023,Gig Harbor,681
+3824,2023,Glacier,12
+3825,2023,Glenoma,4
+3826,2023,Gold Bar,17
+3827,2023,Goldendale,11
+3828,2023,Graham,111
+3829,2023,Grand Coulee,4
+3830,2023,Grandview,8
+3831,2023,Granger,2
+3832,2023,Granite Falls,44
+3833,2023,Grapeview,19
+3834,2023,Grayland,3
+3835,2023,Greenacres,55
+3836,2023,Greenbank,29
+3837,2023,Hamilton,1
+3838,2023,Hanahan,1
+3839,2023,Hanford,2
+3840,2023,Hanover,1
+3841,2023,Hanscom Afb,1
+3842,2023,Hansville,24
+3843,2023,Henrico,1
+3844,2023,Hialeah,1
+3845,2023,Holloman Air Force Base,1
+3846,2023,Holly Springs,1
+3847,2023,Hoodsport,18
+3848,2023,Hoquiam,19
+3849,2023,Hunters,2
+3850,2023,Hunts Point,16
+3851,2023,Husum,5
+3852,2023,Ilwaco,7
+3853,2023,Index,2
+3854,2023,Indianola,16
+3855,2023,Issaquah,999
+3856,2023,Jacksonville,2
+3857,2023,Jbsa Ft Sam Houston,1
+3858,2023,Jbsa Lackland,1
+3859,2023,Joint Base Lewis Mcchord,40
+3860,2023,Kalama,42
+3861,2023,Kelso,67
+3862,2023,Kenmore,355
+3863,2023,Kennewick,247
+3864,2023,Kent,1102
+3865,2023,Kettle Falls,13
+3866,2023,Keyport,2
+3867,2023,Killeen,1
+3868,2023,Kingston,85
+3869,2023,Kirkland,1772
+3870,2023,Kissimmee,1
+3871,2023,Kittitas,2
+3872,2023,Knoxville,4
+3873,2023,La Center,56
+3874,2023,La Conner,26
+3875,2023,Lacey,359
+3876,2023,Lacrosse,1
+3877,2023,Ladera Ranch,1
+3878,2023,Lake Forest Park,211
+3879,2023,Lake Stevens,546
+3880,2023,Lake Tapps,107
+3881,2023,Lakebay,24
+3882,2023,Lakeside,1
+3883,2023,Lakeview,1
+3884,2023,Lakewood,258
+3885,2023,Langley,67
+3886,2023,Las Vegas,2
+3887,2023,Leavenworth,91
+3888,2023,Lebam,1
+3889,2023,Leonardtown,1
+3890,2023,Lexington Park,1
+3891,2023,Liberty Lake,91
+3892,2023,Libertyville,1
+3893,2023,Lilliwaup,2
+3894,2023,Lincoln,1
+3895,2023,Lind,1
+3896,2023,Long Beach,13
+3897,2023,Longbranch,3
+3898,2023,Longview,100
+3899,2023,Loon Lake,7
+3900,2023,Lopez Island,32
+3901,2023,Los Angeles,3
+3902,2023,Lummi Island,16
+3903,2023,Lyle,6
+3904,2023,Lynden,76
+3905,2023,Lynnwood,1069
+3906,2023,Mabton,3
+3907,2023,Malaga,6
+3908,2023,Malden,1
+3909,2023,Mansfield,2
+3910,2023,Manson,25
+3911,2023,Maple Falls,8
+3912,2023,Maple Valley,700
+3913,2023,Marina,1
+3914,2023,Martha Lake,1
+3915,2023,Martinez,1
+3916,2023,Marysville,506
+3917,2023,Mattawa,6
+3918,2023,Mazama,8
+3919,2023,McCleary,1
+3920,2023,Mccleary,9
+3921,2023,Mead,16
+3922,2023,Medical Lake,19
+3923,2023,Medina,95
+3924,2023,Melbourne,1
+3925,2023,Menlo,4
+3926,2023,Mercer Island,706
+3927,2023,Methow,3
+3928,2023,Mica,2
+3929,2023,Midway City,1
+3930,2023,Mill Creek,275
+3931,2023,Mill Valley,1
+3932,2023,Milton,32
+3933,2023,Mineral,5
+3934,2023,Monroe,297
+3935,2023,Montesano,28
+3936,2023,Morgan Hill,1
+3937,2023,Morton,5
+3938,2023,Moses Lake,98
+3939,2023,Mossyrock,6
+3940,2023,Mount Vernon,217
+3941,2023,Mountlake Terrace,175
+3942,2023,Moxee,7
+3943,2023,Mukilteo,303
+3944,2023,Murdock,4
+3945,2023,Naches,7
+3946,2023,Nahcotta,1
+3947,2023,Napavine,2
+3948,2023,Naselle,3
+3949,2023,National City,2
+3950,2023,Neah Bay,2
+3951,2023,Newcastle,329
+3952,2023,Newman Lake,14
+3953,2023,Newport,13
+3954,2023,Nine Mile Falls,27
+3955,2023,Nooksack,4
+3956,2023,Nordland,7
+3957,2023,Normandy Park,69
+3958,2023,North Bend,274
+3959,2023,North Bonneville,5
+3960,2023,North Chesterfield,1
+3961,2023,North Cove,6
+3962,2023,North Las Vegas,1
+3963,2023,Northport,1
+3964,2023,Oak Harbor,139
+3965,2023,Oakesdale,2
+3966,2023,Oakville,6
+3967,2023,Ocean Park,8
+3968,2023,Ocean Shores,49
+3969,2023,Odessa,1
+3970,2023,Okanogan,3
+3971,2023,Olalla,48
+3972,2023,Olga,6
+3973,2023,Olivehurst,1
+3974,2023,Olympia,1427
+3975,2023,Omaha,1
+3976,2023,Omak,7
+3977,2023,Onalaska,9
+3978,2023,Orcas,1
+3979,2023,Orcas Is,3
+3980,2023,Orlando,1
+3981,2023,Orondo,16
+3982,2023,Oroville,8
+3983,2023,Orting,62
+3984,2023,Othello,15
+3985,2023,Otis Orchards,13
+3986,2023,Outlook,3
+3987,2023,Oysterville,2
+3988,2023,Pacific,22
+3989,2023,Pacific Beach,6
+3990,2023,Pacifica,1
+3991,2023,Packwood,15
+3992,2023,Palm Springs,1
+3993,2023,Palouse,9
+3994,2023,Parkland,34
+3995,2023,Pasc,1
+3996,2023,Pasco,164
+3997,2023,Pateros,2
+3998,2023,Paterson,1
+3999,2023,Pensacola,1
+4000,2023,Peoria,1
+4001,2023,Peshastin,5
+4002,2023,Phoenix,1
+4003,2023,Pittsburgh,1
+4004,2023,Point Roberts,16
+4005,2023,Port Angeles,141
+4006,2023,Port Hadlock,16
+4007,2023,Port Hueneme,1
+4008,2023,Port Ludlow,67
+4009,2023,Port Orchard,401
+4010,2023,Port Townsend,158
+4011,2023,Portland,1
+4012,2023,Post Falls,1
+4013,2023,Poulsbo,199
+4014,2023,Prattville,1
+4015,2023,Preston,7
+4016,2023,Pros,1
+4017,2023,Prosser,30
+4018,2023,Pullman,85
+4019,2023,Puyallup,435
+4020,2023,Quilcene,9
+4021,2023,Quinault,1
+4022,2023,Quincy,35
+4023,2023,Raeford,1
+4024,2023,Rainier,16
+4025,2023,Ravensdale,28
+4026,2023,Raymond,7
+4027,2023,Reardan,4
+4028,2023,Redmond,2330
+4029,2023,Redwood City,1
+4030,2023,Renton,1785
+4031,2023,Republic,2
+4032,2023,Rice,2
+4033,2023,Rich,1
+4034,2023,Richland,331
+4035,2023,Ridgefield,338
+4036,2023,Ritzville,5
+4037,2023,Riverside,1
+4038,2023,Rochester,33
+4039,2023,Rock Island,5
+4040,2023,Rockford,1
+4041,2023,Ronald,16
+4042,2023,Roslyn,6
+4043,2023,Roy,45
+4044,2023,Royal City,11
+4045,2023,Ruston,9
+4046,2023,Ryderwood,1
+4047,2023,Saint Marys,1
+4048,2023,Saint Robert,1
+4049,2023,Salkum,1
+4050,2023,Salt Lake City,2
+4051,2023,Sammamish,1966
+4052,2023,San Antonio,1
+4053,2023,San Diego,4
+4054,2023,Sanford,1
+4055,2023,Santa Clara,1
+4056,2023,Saratoga Springs,1
+4057,2023,Scottsdale,1
+4058,2023,Seabeck,26
+4059,2023,Seatac,424
+4060,2023,Seattle,8900
+4061,2023,Seaview,3
+4062,2023,Sedro Woolley,15
+4063,2023,Sedro-Woolley,56
+4064,2023,Selah,23
+4065,2023,Sequim,183
+4066,2023,Seven Bays,1
+4067,2023,Shaw Island,2
+4068,2023,Shelton,127
+4069,2023,Shoreline,618
+4070,2023,Silver Creek,2
+4071,2023,Silver Lake,1
+4072,2023,Silverdale,130
+4073,2023,Silverlake,7
+4074,2023,Skamokawa,2
+4075,2023,Smith Creek,1
+4076,2023,Snohomish,728
+4077,2023,Snoqualmie,344
+4078,2023,Snoqualmie Pass,12
+4079,2023,Snowden,6
+4080,2023,Soap Lake,5
+4081,2023,Somerville,1
+4082,2023,South Bend,1
+4083,2023,South Cle Elum,2
+4084,2023,South Hill,171
+4085,2023,South Prairie,1
+4086,2023,Spanaway,128
+4087,2023,Spangle,4
+4088,2023,Sparks,1
+4089,2023,Spokane,845
+4090,2023,Spokane Valley,192
+4091,2023,Sprague,1
+4092,2023,Springfield,6
+4093,2023,Stanwood,137
+4094,2023,Startup,1
+4095,2023,Steilacoom,39
+4096,2023,Stevenson,9
+4097,2023,Sultan,91
+4098,2023,Sumas,2
+4099,2023,Sumner,89
+4100,2023,Sunnyside,19
+4101,2023,Sunnyvale,2
+4102,2023,Suquamish,14
+4103,2023,Surfside,11
+4104,2023,Tacoma,1164
+4105,2023,Taholah,2
+4106,2023,Tahuya,12
+4107,2023,Tampa,1
+4108,2023,Tenino,21
+4109,2023,Thorp,3
+4110,2023,Tieton,2
+4111,2023,Tokeland,1
+4112,2023,Toledo,11
+4113,2023,Tonasket,2
+4114,2023,Toppenish,6
+4115,2023,Touchet,2
+4116,2023,Toutle,3
+4117,2023,Trabuco Canyon,1
+4118,2023,Trout Lake,16
+4119,2023,Tucson,1
+4120,2023,Tukwila,516
+4121,2023,Tulalip,3
+4122,2023,Tumwater,215
+4123,2023,Twisp,11
+4124,2023,Underwood,9
+4125,2023,Union,16
+4126,2023,Union Gap,2
+4127,2023,Uniontown,1
+4128,2023,University Place,195
+4129,2023,Upper Marlboro,1
+4130,2023,Usk,2
+4131,2023,Vader,1
+4132,2023,Valleyford,6
+4133,2023,Vancouver,2015
+4134,2023,Vantage,1
+4135,2023,Vashon,147
+4136,2023,Vass,1
+4137,2023,Vaughn,6
+4138,2023,Veradale,18
+4139,2023,Virginia Beach,3
+4140,2023,Waitsburg,2
+4141,2023,Walla Walla,94
+4142,2023,Walnut Creek,1
+4143,2023,Wapato,6
+4144,2023,Warden,4
+4145,2023,Warrensburg,1
+4146,2023,Washington,3
+4147,2023,Washougal,204
+4148,2023,Washtucna,1
+4149,2023,Waterville,4
+4150,2023,Wenatchee,163
+4151,2023,West Richland,75
+4152,2023,Westport,7
+4153,2023,White Salmon,59
+4154,2023,Wilkeson,3
+4155,2023,Winchester,1
+4156,2023,Winlock,14
+4157,2023,Winthrop,39
+4158,2023,Woodbridge,1
+4159,2023,Woodinville,763
+4160,2023,Woodland,60
+4161,2023,Woodway,18
+4162,2023,Yacolt,18
+4163,2023,Yakima,218
+4164,2023,Yarrow Point,29
+4165,2023,Yelm,99
+4166,2023,Zillah,10
+4167,2024,Aberdeen,50
+4168,2024,Acme,3
+4169,2024,Addy,2
+4170,2024,Airway Heights,10
+4171,2024,Alexandria,2
+4172,2024,Algona,10
+4173,2024,Allyn,17
+4174,2024,Almira,1
+4175,2024,Amanda Park,1
+4176,2024,Amboy,2
+4177,2024,Anacortes,136
+4178,2024,Anderson Island,8
+4179,2024,Annapolis,2
+4180,2024,Ariel,6
+4181,2024,Arlington,172
+4182,2024,Arroyo Grande,1
+4183,2024,Artondale,1
+4184,2024,Ashburn,1
+4185,2024,Ashford,4
+4186,2024,Asotin,3
+4187,2024,Auburn,692
+4188,2024,Bainbridge Island,367
+4189,2024,Baring,1
+4190,2024,Barstow,1
+4191,2024,Battle Ground,191
+4192,2024,Beaux Arts,5
+4193,2024,Belfair,31
+4194,2024,Belleville,1
+4195,2024,Bellevue,2479
+4196,2024,Bellingham,708
+4197,2024,Benton City,13
+4198,2024,Bickleton,1
+4199,2024,Bingen,2
+4200,2024,Black Diamond,111
+4201,2024,Blaine,112
+4202,2024,Bonney Lake,357
+4203,2024,Bothell,1641
+4204,2024,Bow,26
+4205,2024,Bremerton,444
+4206,2024,Brewster,7
+4207,2024,Bridgeport Bar,1
+4208,2024,Brier,73
+4209,2024,Brinnon,6
+4210,2024,Brush Prairie,60
+4211,2024,Buckley,91
+4212,2024,Bucoda,1
+4213,2024,Buena,1
+4214,2024,Buford,1
+4215,2024,Burbank,3
+4216,2024,Burien,279
+4217,2024,Burlington,186
+4218,2024,Bz Corner,1
+4219,2024,Camano Island,107
+4220,2024,Camas,418
+4221,2024,Camden,1
+4222,2024,Carbonado,4
+4223,2024,Carlton,1
+4224,2024,Carnation,91
+4225,2024,Carrollton,1
+4226,2024,Carson,2
+4227,2024,Cashmere,21
+4228,2024,Castle Rock,19
+4229,2024,Cathlamet,8
+4230,2024,Centerville,1
+4231,2024,Centralia,138
+4232,2024,Charlottesville,1
+4233,2024,Chattaroy,17
+4234,2024,Chehalis,55
+4235,2024,Chelan,40
+4236,2024,Chelan Falls,3
+4237,2024,Cheney,54
+4238,2024,Chewelah,3
+4239,2024,Chimacum,5
+4240,2024,Cinebar,2
+4241,2024,Clallam Bay,1
+4242,2024,Clarkston,18
+4243,2024,Clayton,2
+4244,2024,Cle Elum,73
+4245,2024,Clinton,47
+4246,2024,Clyde Hill,68
+4247,2024,Colbert,52
+4248,2024,Colfax,2
+4249,2024,College Place,27
+4250,2024,Colorado Springs,3
+4251,2024,Colton,1
+4252,2024,Colville,15
+4253,2024,Concrete,16
+4254,2024,Connell,3
+4255,2024,Copalis Beach,2
+4256,2024,Cosmopolis,7
+4257,2024,Coulee City,4
+4258,2024,Coulee Dam,2
+4259,2024,Coupeville,61
+4260,2024,Covington,187
+4261,2024,Cowiche,1
+4262,2024,Curlew,1
+4263,2024,Curtis,2
+4264,2024,Cusick,2
+4265,2024,Custer,7
+4266,2024,Dallesport,4
+4267,2024,Darrington,9
+4268,2024,Davenport,6
+4269,2024,Dayton,3
+4270,2024,Dededo,1
+4271,2024,Deer Park,24
+4272,2024,Deming,5
+4273,2024,Denver,1
+4274,2024,Des Moines,158
+4275,2024,Dixie,1
+4276,2024,Dupont,59
+4277,2024,Duvall,157
+4278,2024,East Wenatchee,102
+4279,2024,Easton,1
+4280,2024,Eastsound,35
+4281,2024,Eatonville,44
+4282,2024,Edgewood,79
+4283,2024,Edmonds,476
+4284,2024,Edwall,2
+4285,2024,Elk,9
+4286,2024,Ellensburg,67
+4287,2024,Elma,12
+4288,2024,Eltopia,1
+4289,2024,Endicott,3
+4290,2024,Entiat,6
+4291,2024,Enumclaw,81
+4292,2024,Ephrata,28
+4293,2024,Escondido,1
+4294,2024,Ethel,2
+4295,2024,Evans,3
+4296,2024,Everett,792
+4297,2024,Everson,15
+4298,2024,Fairchild Air Force Base,4
+4299,2024,Fairfield,2
+4300,2024,Fall City,62
+4301,2024,Farmington,1
+4302,2024,Feasterville Trevose,1
+4303,2024,Federal Way,492
+4304,2024,Ferndale,95
+4305,2024,Fife,106
+4306,2024,Fircrest,49
+4307,2024,Foley,1
+4308,2024,Forks,7
+4309,2024,Fort George G Meade,2
+4310,2024,Fort Huachuca,1
+4311,2024,Fort Leavenworth,1
+4312,2024,Fox Island,60
+4313,2024,Freeland,44
+4314,2024,Friday Harbor,76
+4315,2024,Gaithersburg,1
+4316,2024,Garfield,2
+4317,2024,Gig Harbor,547
+4318,2024,Glacier,1
+4319,2024,Glenoma,1
+4320,2024,Gold Bar,23
+4321,2024,Goldendale,11
+4322,2024,Graham,121
+4323,2024,Grand Coulee,3
+4324,2024,Grandview,13
+4325,2024,Granger,3
+4326,2024,Granite Falls,35
+4327,2024,Grapeview,18
+4328,2024,Grayland,4
+4329,2024,Greenacres,64
+4330,2024,Greenbank,20
+4331,2024,Greene,1
+4332,2024,Gresham,1
+4333,2024,Gunpowder,1
+4334,2024,Hamilton,1
+4335,2024,Hanford,1
+4336,2024,Hansville,18
+4337,2024,Hartline,1
+4338,2024,Helendale,1
+4339,2024,Hoodsport,12
+4340,2024,Hoquiam,9
+4341,2024,Hunts Point,15
+4342,2024,Husum,3
+4343,2024,Hutto,1
+4344,2024,Ilwaco,3
+4345,2024,Incorporated,1
+4346,2024,Index,2
+4347,2024,Indianapolis,1
+4348,2024,Indianola,9
+4349,2024,Ione,2
+4350,2024,Issaquah,705
+4351,2024,Jacksonville,1
+4352,2024,Joint Base Lewis Mcchord,46
+4353,2024,Kalama,38
+4354,2024,Kelso,49
+4355,2024,Kenmore,280
+4356,2024,Kennewick,247
+4357,2024,Kent,1011
+4358,2024,Kettle Falls,7
+4359,2024,Keyport,4
+4360,2024,Kingston,78
+4361,2024,Kirkland,1331
+4362,2024,Kittitas,2
+4363,2024,Knoxville,8
+4364,2024,La Center,50
+4365,2024,La Conner,26
+4366,2024,Lacey,299
+4367,2024,Lacrosse,1
+4368,2024,Lake Forest Park,161
+4369,2024,Lake Ozark,1
+4370,2024,Lake Stevens,496
+4371,2024,Lake Tapps,99
+4372,2024,Lake Zurich,1
+4373,2024,Lakebay,24
+4374,2024,Lakewood,334
+4375,2024,Langley,68
+4376,2024,Leavenworth,61
+4377,2024,Lebam,1
+4378,2024,Liberty Lake,101
+4379,2024,Libertyville,1
+4380,2024,Lilliwaup,2
+4381,2024,Lincoln,1
+4382,2024,Lind,1
+4383,2024,Long Beach,16
+4384,2024,Longbranch,9
+4385,2024,Longview,74
+4386,2024,Loon Lake,5
+4387,2024,Lopez Island,30
+4388,2024,Lummi Island,7
+4389,2024,Lyle,5
+4390,2024,Lyman,1
+4391,2024,Lynden,64
+4392,2024,Lynnwood,875
+4393,2024,Mabton,2
+4394,2024,Malaga,4
+4395,2024,Malott,1
+4396,2024,Mansfield,3
+4397,2024,Manson,21
+4398,2024,Maple Falls,8
+4399,2024,Maple Valley,472
+4400,2024,Marlin,1
+4401,2024,Marysville,460
+4402,2024,Mattawa,6
+4403,2024,Mazama,4
+4404,2024,Mc Lean,1
+4405,2024,Mccleary,15
+4406,2024,Mead,39
+4407,2024,Medical Lake,12
+4408,2024,Medina,70
+4409,2024,Menlo,2
+4410,2024,Mercer Island,507
+4411,2024,Mesa,4
+4412,2024,Metaline,1
+4413,2024,Methow,2
+4414,2024,Middletown,1
+4415,2024,Mill Creek,196
+4416,2024,Milton,37
+4417,2024,Mineral,3
+4418,2024,Moclips,1
+4419,2024,Moncks Corner,1
+4420,2024,Monitor,1
+4421,2024,Monroe,246
+4422,2024,Montclair,1
+4423,2024,Montesano,17
+4424,2024,Morton,7
+4425,2024,Moses Lake,114
+4426,2024,Mossyrock,4
+4427,2024,Mount Vernon,180
+4428,2024,Mountain View,1
+4429,2024,Mountlake Terrace,117
+4430,2024,Moxee,10
+4431,2024,Mukilteo,208
+4432,2024,Murrieta,1
+4433,2024,Naches,11
+4434,2024,Napavine,1
+4435,2024,Naselle,5
+4436,2024,Neah Bay,1
+4437,2024,New York,1
+4438,2024,Newcastle,268
+4439,2024,Newman Lake,9
+4440,2024,Newport,11
+4441,2024,Nine Mile Falls,30
+4442,2024,Nooksack,2
+4443,2024,Nordland,11
+4444,2024,Normandy Park,48
+4445,2024,North Bend,188
+4446,2024,North Bonneville,4
+4447,2024,Northwestern Lake,1
+4448,2024,Norwich,1
+4449,2024,O Fallon,1
+4450,2024,Oak Harbor,145
+4451,2024,Oakesdale,1
+4452,2024,Oakville,7
+4453,2024,Ocean Park,7
+4454,2024,Ocean Shores,45
+4455,2024,Odenton,1
+4456,2024,Odessa,2
+4457,2024,Okanogan,1
+4458,2024,Olalla,17
+4459,2024,Olga,11
+4460,2024,Olympia,1098
+4461,2024,Omak,7
+4462,2024,Onalaska,12
+4463,2024,Orcas Is,4
+4464,2024,Orient,2
+4465,2024,Orondo,15
+4466,2024,Oroville,4
+4467,2024,Orting,58
+4468,2024,Othello,19
+4469,2024,Otis Orchards,14
+4470,2024,Outlook,3
+4471,2024,Oysterville,1
+4472,2024,Ozark,1
+4473,2024,Pacific,26
+4474,2024,Pacific Beach,8
+4475,2024,Packwood,6
+4476,2024,Palisades,1
+4477,2024,Palouse,6
+4478,2024,Parker,1
+4479,2024,Parkland,38
+4480,2024,Pasc,1
+4481,2024,Pasco,192
+4482,2024,Pateros,2
+4483,2024,Pe Ell,1
+4484,2024,Peshastin,6
+4485,2024,Plano,1
+4486,2024,Point Roberts,12
+4487,2024,Port Angeles,140
+4488,2024,Port Gamble,1
+4489,2024,Port Hadlock,8
+4490,2024,Port Ludlow,48
+4491,2024,Port Orchard,380
+4492,2024,Port Townsend,98
+4493,2024,Portsmouth,1
+4494,2024,Poulsbo,177
+4495,2024,Pouslbo,1
+4496,2024,Prescott,2
+4497,2024,Preston,7
+4498,2024,Prosser,22
+4499,2024,Pullman,96
+4500,2024,Puyallup,557
+4501,2024,Quilcene,12
+4502,2024,Quinault,1
+4503,2024,Quincy,35
+4504,2024,Rainier,17
+4505,2024,Rancho Cucamonga,1
+4506,2024,Randle,1
+4507,2024,Ravensdale,27
+4508,2024,Raymond,7
+4509,2024,Reardan,2
+4510,2024,Redmond,1699
+4511,2024,Renton,1821
+4512,2024,Republic,5
+4513,2024,Rice,2
+4514,2024,Richland,294
+4515,2024,Ridgefield,254
+4516,2024,Ritzville,5
+4517,2024,Riverside,3
+4518,2024,Rochester,34
+4519,2024,Rock Island,7
+4520,2024,Rockford,1
+4521,2024,Ronald,16
+4522,2024,Rosalia,1
+4523,2024,Rosburg,2
+4524,2024,Roslyn,6
+4525,2024,Roy,32
+4526,2024,Royal City,5
+4527,2024,Ruston,10
+4528,2024,Ryderwood,1
+4529,2024,Sammamish,1299
+4530,2024,San Diego,3
+4531,2024,San Francisco,1
+4532,2024,San Juan Is,1
+4533,2024,San Mateo,1
+4534,2024,Seabeck,30
+4535,2024,Seaside,2
+4536,2024,Seatac,242
+4537,2024,Seattle,7219
+4538,2024,Sedro Woolley,11
+4539,2024,Sedro-Woolley,43
+4540,2024,Sekiu,3
+4541,2024,Selah,33
+4542,2024,Sequim,121
+4543,2024,Seven Bays,1
+4544,2024,Shaw Island,2
+4545,2024,Shelton,115
+4546,2024,Shoreline,495
+4547,2024,Shreveport,1
+4548,2024,Silver Creek,4
+4549,2024,Silverdale,120
+4550,2024,Silverlake,3
+4551,2024,Skykomish,2
+4552,2024,Snohomish,558
+4553,2024,Snoqualmie,259
+4554,2024,Snoqualmie Pass,7
+4555,2024,Snowden,6
+4556,2024,Soap Lake,2
+4557,2024,South Bend,4
+4558,2024,South Hill,202
+4559,2024,Spanaway,153
+4560,2024,Spangle,2
+4561,2024,Spokane,1010
+4562,2024,Spokane Valley,315
+4563,2024,Sprague,1
+4564,2024,Springdale,1
+4565,2024,Springfield,1
+4566,2024,St John,1
+4567,2024,Stanwood,123
+4568,2024,Steilacoom,52
+4569,2024,Stevenson,10
+4570,2024,Streamwood,1
+4571,2024,Sultan,67
+4572,2024,Sumas,8
+4573,2024,Sumner,45
+4574,2024,Sunnyside,25
+4575,2024,Suquamish,21
+4576,2024,Surfside,11
+4577,2024,Suwanee,1
+4578,2024,Tacoma,1109
+4579,2024,Tahuya,7
+4580,2024,Talladega,1
+4581,2024,Tekoa,1
+4582,2024,Tenino,23
+4583,2024,Thorp,2
+4584,2024,Tieton,3
+4585,2024,Toano,1
+4586,2024,Toledo,6
+4587,2024,Tomah,1
+4588,2024,Tonasket,5
+4589,2024,Toppenish,7
+4590,2024,Touchet,4
+4591,2024,Trout Lake,7
+4592,2024,Tukwila,188
+4593,2024,Tumwater,168
+4594,2024,Turlock,1
+4595,2024,Twisp,14
+4596,2024,Underwood,6
+4597,2024,Union,20
+4598,2024,Uniontown,2
+4599,2024,University Place,195
+4600,2024,Vader,2
+4601,2024,Valley,4
+4602,2024,Valleyford,9
+4603,2024,Vancouver,1906
+4604,2024,Vashon,122
+4605,2024,Vaughn,7
+4606,2024,Veradale,22
+4607,2024,Virginia Beach,1
+4608,2024,Waitsburg,3
+4609,2024,Walla Walla,105
+4610,2024,Wapato,3
+4611,2024,Warden,4
+4612,2024,Warren,4
+4613,2024,Washington,1
+4614,2024,Washougal,150
+4615,2024,Wellpinit,2
+4616,2024,Wenatchee,132
+4617,2024,West Richland,72
+4618,2024,Westport,4
+4619,2024,White Salmon,39
+4620,2024,Wilbur,3
+4621,2024,Willapa,1
+4622,2024,Winchester,1
+4623,2024,Winlock,21
+4624,2024,Winthrop,28
+4625,2024,Woodinville,544
+4626,2024,Woodland,45
+4627,2024,Woodway,24
+4628,2024,Wrch,1
+4629,2024,Yacolt,16
+4630,2024,Yakima,206
+4631,2024,Yarrow Point,33
+4632,2024,Yelm,102
+4633,2024,Yorktown,1
+4634,2024,Zillah,11
+4635,2025,Aberdeen,12
+4636,2025,Airway Heights,5
+4637,2025,Alderdale,1
+4638,2025,Algona,6
+4639,2025,Allyn,11
+4640,2025,Amanda Park,1
+4641,2025,Amboy,5
+4642,2025,Anacortes,85
+4643,2025,Anderson Island,6
+4644,2025,Ariel,2
+4645,2025,Arlington,68
+4646,2025,Ashford,2
+4647,2025,Asotin,2
+4648,2025,Auburn,256
+4649,2025,Bainbridge Island,185
+4650,2025,Baring,1
+4651,2025,Battle Ground,74
+4652,2025,Beaux Arts,2
+4653,2025,Belfair,18
+4654,2025,Bellevue,1356
+4655,2025,Bellingham,336
+4656,2025,Benge,1
+4657,2025,Benton City,10
+4658,2025,Bingen,1
+4659,2025,Black Diamond,48
+4660,2025,Blaine,38
+4661,2025,Bonney Lake,170
+4662,2025,Bothell,848
+4663,2025,Bow,17
+4664,2025,Bremerton,156
+4665,2025,Brier,30
+4666,2025,Brush Prairie,26
+4667,2025,Buckley,31
+4668,2025,Burbank,2
+4669,2025,Burien,112
+4670,2025,Burlington,8
+4671,2025,California,1
+4672,2025,Camano Island,56
+4673,2025,Camas,173
+4674,2025,Carnation,38
+4675,2025,Carson,1
+4676,2025,Cashmere,7
+4677,2025,Castle Rock,9
+4678,2025,Cathlamet,3
+4679,2025,Centralia,20
+4680,2025,Chattaroy,4
+4681,2025,Chehalis,23
+4682,2025,Chelan,18
+4683,2025,Chelan Falls,1
+4684,2025,Cheney,28
+4685,2025,Chewelah,2
+4686,2025,Chimacum,4
+4687,2025,Clarkston,2
+4688,2025,Clayton,2
+4689,2025,Cle Elum,28
+4690,2025,Clinton,28
+4691,2025,Clyde Hill,48
+4692,2025,Colbert,18
+4693,2025,College Place,9
+4694,2025,Colville,4
+4695,2025,Concrete,2
+4696,2025,Connell,3
+4697,2025,Cosmopolis,1
+4698,2025,Cougar,1
+4699,2025,Coulee City,1
+4700,2025,Coupeville,15
+4701,2025,Covington,75
+4702,2025,Creston,1
+4703,2025,Cusick,2
+4704,2025,Custer,2
+4705,2025,Dallesport,1
+4706,2025,Darrington,6
+4707,2025,Davenport,1
+4708,2025,Dayton,4
+4709,2025,Deer Park,12
+4710,2025,Deming,2
+4711,2025,Des Moines,88
+4712,2025,Des Plaines,1
+4713,2025,Dover,1
+4714,2025,Dupont,28
+4715,2025,Duvall,80
+4716,2025,East Wenatchee,28
+4717,2025,Easton,1
+4718,2025,Eastsound,24
+4719,2025,Eatonville,20
+4720,2025,Edgewood,35
+4721,2025,Edmonds,267
+4722,2025,Electric City,3
+4723,2025,Elk,4
+4724,2025,Ellensburg,25
+4725,2025,Elma,6
+4726,2025,Eltopia,1
+4727,2025,Enumclaw,36
+4728,2025,Ephrata,9
+4729,2025,Ethel,1
+4730,2025,Everett,387
+4731,2025,Everson,8
+4732,2025,Fairchild Air Force Base,4
+4733,2025,Fall City,23
+4734,2025,Federal Way,237
+4735,2025,Ferndale,49
+4736,2025,Fife,63
+4737,2025,Fircrest,16
+4738,2025,Ford,1
+4739,2025,Forks,1
+4740,2025,Fort Leavenworth,2
+4741,2025,Fox Island,27
+4742,2025,Freeland,30
+4743,2025,Friday Harbor,35
+4744,2025,Garfield,1
+4745,2025,Gig Harbor,242
+4746,2025,Glacier,1
+4747,2025,Gold Bar,7
+4748,2025,Goldendale,4
+4749,2025,Graham,45
+4750,2025,Grand Coulee,2
+4751,2025,Grandview,1
+4752,2025,Granite Falls,17
+4753,2025,Grapeview,10
+4754,2025,Grayland,1
+4755,2025,Greenacres,20
+4756,2025,Greenbank,8
+4757,2025,Hansville,9
+4758,2025,Hoodsport,3
+4759,2025,Hoquiam,7
+4760,2025,Hunts Point,4
+4761,2025,Husum,2
+4762,2025,Ilwaco,3
+4763,2025,Indianola,3
+4764,2025,Issaquah,391
+4765,2025,Jacksonville,1
+4766,2025,Jbsa Lackland,1
+4767,2025,Joint Base Lewis Mcchord,15
+4768,2025,Kalama,10
+4769,2025,Kelso,16
+4770,2025,Kenmore,130
+4771,2025,Kennewick,84
+4772,2025,Kent,411
+4773,2025,Kettle Falls,5
+4774,2025,Keyport,4
+4775,2025,Kingston,25
+4776,2025,Kirkland,720
+4777,2025,Klickitat,1
+4778,2025,La Center,22
+4779,2025,La Conner,10
+4780,2025,Lacey,117
+4781,2025,Lake Forest Park,76
+4782,2025,Lake Stevens,157
+4783,2025,Lake Tapps,55
+4784,2025,Lakebay,10
+4785,2025,Lakewood,95
+4786,2025,Langley,16
+4787,2025,Leavenworth,34
+4788,2025,Liberty Lake,46
+4789,2025,Libertyville,1
+4790,2025,Lilliwaup,3
+4791,2025,Long Beach,4
+4792,2025,Longbranch,1
+4793,2025,Longview,37
+4794,2025,Loon Lake,2
+4795,2025,Lopez Island,13
+4796,2025,Lummi Island,2
+4797,2025,Lyle,2
+4798,2025,Lynden,19
+4799,2025,Lynnwood,468
+4800,2025,Malaga,3
+4801,2025,Manson,9
+4802,2025,Maple Falls,3
+4803,2025,Maple Valley,152
+4804,2025,Marysville,162
+4805,2025,Mattawa,3
+4806,2025,Mazama,3
+4807,2025,Mccleary,8
+4808,2025,Mead,13
+4809,2025,Medical Lake,2
+4810,2025,Medina,47
+4811,2025,Menlo,1
+4812,2025,Mercer Island,289
+4813,2025,Mica,1
+4814,2025,Mill Creek,100
+4815,2025,Milton,12
+4816,2025,Monitor,1
+4817,2025,Monroe,88
+4818,2025,Montesano,10
+4819,2025,Moses Lake,29
+4820,2025,Mossyrock,3
+4821,2025,Mount Vernon,67
+4822,2025,Mountlake Terrace,46
+4823,2025,Moxee,3
+4824,2025,Mukilteo,104
+4825,2025,Murdock,1
+4826,2025,Naches,3
+4827,2025,Newcastle,117
+4828,2025,Newman Lake,5
+4829,2025,Newport,4
+4830,2025,Nine Mile Falls,5
+4831,2025,Nooksack,1
+4832,2025,Nordland,2
+4833,2025,Normandy Park,39
+4834,2025,North Bend,81
+4835,2025,North Bonneville,1
+4836,2025,North Cove,2
+4837,2025,Oak Harbor,59
+4838,2025,Ocean Park,4
+4839,2025,Ocean Shores,16
+4840,2025,Okanogan,3
+4841,2025,Olalla,15
+4842,2025,Olga,4
+4843,2025,Olympia,438
+4844,2025,Omak,2
+4845,2025,Onalaska,3
+4846,2025,Orcas,1
+4847,2025,Orlando,1
+4848,2025,Orondo,5
+4849,2025,Orting,25
+4850,2025,Othello,5
+4851,2025,Otis Orchards,9
+4852,2025,Oysterville,1
+4853,2025,Pacific,10
+4854,2025,Pacific Beach,4
+4855,2025,Palisades,1
+4856,2025,Palouse,1
+4857,2025,Parkland,8
+4858,2025,Pasco,64
+4859,2025,Pe Ell,1
+4860,2025,Point Roberts,5
+4861,2025,Port Angeles,39
+4862,2025,Port Hadlock,8
+4863,2025,Port Ludlow,20
+4864,2025,Port Orchard,132
+4865,2025,Port Townsend,53
+4866,2025,Poulsbo,93
+4867,2025,Pouslbo,1
+4868,2025,Preston,1
+4869,2025,Prosser,4
+4870,2025,Pullman,42
+4871,2025,Puyallup,239
+4872,2025,Quilcene,4
+4873,2025,Quincy,11
+4874,2025,Rainier,6
+4875,2025,Randle,1
+4876,2025,Ravensdale,5
+4877,2025,Raymond,2
+4878,2025,Reardan,1
+4879,2025,Redmond,928
+4880,2025,Renton,547
+4881,2025,Rice,1
+4882,2025,Richland,136
+4883,2025,Ridgefield,94
+4884,2025,Ritzville,2
+4885,2025,Rochester,13
+4886,2025,Rock Island,4
+4887,2025,Ronald,3
+4888,2025,Roy,10
+4889,2025,Royal City,3
+4890,2025,Ruston,7
+4891,2025,Saint Louis,1
+4892,2025,Sammamish,763
+4893,2025,San Francisco,1
+4894,2025,Seabeck,18
+4895,2025,Seatac,505
+4896,2025,Seattle,3852
+4897,2025,Seaview,1
+4898,2025,Sedro Woolley,4
+4899,2025,Sedro-Woolley,24
+4900,2025,Selah,18
+4901,2025,Sequim,55
+4902,2025,Shaw Island,2
+4903,2025,Shelton,30
+4904,2025,Shoreline,236
+4905,2025,Silverdale,48
+4906,2025,Silverlake,4
+4907,2025,Skykomish,1
+4908,2025,Snohomish,246
+4909,2025,Snoqualmie,141
+4910,2025,Snoqualmie Pass,3
+4911,2025,Soap Lake,2
+4912,2025,South Bend,2
+4913,2025,South Hill,84
+4914,2025,South Prairie,1
+4915,2025,Spanaway,52
+4916,2025,Spangle,1
+4917,2025,Spokane,342
+4918,2025,Spokane Valley,70
+4919,2025,Stanwood,54
+4920,2025,Steilacoom,18
+4921,2025,Stevenson,6
+4922,2025,Sultan,19
+4923,2025,Sumas,3
+4924,2025,Sumner,21
+4925,2025,Sunnyside,7
+4926,2025,Suquamish,8
+4927,2025,Surfside,2
+4928,2025,Tacoma,513
+4929,2025,Tahuya,3
+4930,2025,Tenino,13
+4931,2025,Thorp,1
+4932,2025,Tieton,1
+4933,2025,Toledo,2
+4934,2025,Tonasket,2
+4935,2025,Touchet,2
+4936,2025,Toutle,2
+4937,2025,Trout Lake,2
+4938,2025,Tukwila,284
+4939,2025,Tulalip,1
+4940,2025,Tumwater,68
+4941,2025,Twisp,5
+4942,2025,Underwood,3
+4943,2025,Union,5
+4944,2025,University Place,88
+4945,2025,Vader,2
+4946,2025,Valleyford,1
+4947,2025,Vancouver,926
+4948,2025,Vashon,50
+4949,2025,Vaughn,4
+4950,2025,Veradale,4
+4951,2025,Waitsburg,1
+4952,2025,Walla Walla,40
+4953,2025,Walla Walla Co,1
+4954,2025,Wapato,2
+4955,2025,Warren,2
+4956,2025,Washington,1
+4957,2025,Washougal,52
+4958,2025,Waterville,1
+4959,2025,Wenatchee,53
+4960,2025,West Richland,25
+4961,2025,Westport,1
+4962,2025,White Salmon,16
+4963,2025,White Swan,1
+4964,2025,Wilbur,1
+4965,2025,Willapa,2
+4966,2025,Winlock,10
+4967,2025,Winthrop,11
+4968,2025,Woodinville,251
+4969,2025,Woodland,17
+4970,2025,Woodway,15
+4971,2025,Wrch,1
+4972,2025,Yacolt,8
+4973,2025,Yakima,82
+4974,2025,Yarrow Point,21
+4975,2025,Yelm,35
+4976,2025,Zillah,4

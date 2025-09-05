@@ -1,0 +1,2 @@
+Public data provided by the state of Washington Open Data Program,
+source link: https://catalog.data.gov/dataset/electric-vehicle-population-data
